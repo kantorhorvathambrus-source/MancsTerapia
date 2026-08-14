@@ -268,7 +268,7 @@
       "Kiegyensúlyozott, barátságos jelleme az egyik legkedveltebb terápiás fajtává teszi.",
       "Első találkozáskor is szinte azonnal bizalmat ébreszt az idegenekben.",
       "Örömmel dolgozik együtt, élvezi az új feladatok megtanulását.",
-      "Gyerekekkel és idősekkel egyaránt gyengéden, türelmesen viselkedik.",
+      "Kisgyerekekkel és idős résztvevőkkel is megfontoltan, óvatosan bánik.",
       "Zajos, nyüzsgő környezetben is megőrzi a nyugalmát.",
       "Dús, simogatható szőrzete sok embernek megnyugtató érzést ad.",
       "Dicsérettel és jutalomfalattal könnyen irányítható a foglalkozásokon.",
@@ -662,7 +662,7 @@
       "Elsőkutyás tartónak megterhelő lehet a testsúlyából eredő fizikai erő.",
       "Kölyökkorban túlzott terhelés mellett könnyen sérülhet a csontozata.",
       "Nyáladzása és szőrhullása jelentős, gyakori takarítást igényel.",
-      "Mély mellkasa miatt fokozott a gyomorforgás kockázata evés után.",
+      "Nagy testű fajtaként fokozott nála a gyomorforgás kockázata étkezés után.",
       "Örökletes idegrendszeri gyengeségre (polyneuropathia) is hajlamos lehet."
     ]
   },
@@ -1460,71 +1460,291 @@
     "nev": "Bullterrier",
     "meret": "kozepes",
     "csoport": "Terrier",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Tojásdad, egyenes profilú fejformája azonnal megkülönbözteti bármely más fajtától.",
+      "Bohókás, szinte clown-szerű humora gyakran megnevetteti a körülötte lévőket.",
+      "Testi fájdalomtűrése magas, ritkán reagál túlzottan apró ütődésekre.",
+      "Alapos szoktatás után játékosan, nyitottan fogadja az új embereket.",
+      "Rövid, fényes szőrét elég hetente egyszer átkefélni.",
+      "Motiválható egy kedvenc rágójátékkal, azonnal bevonható egy gyakorlatba.",
+      "Kitartó, energikus alkata miatt egy hosszabb programot is jól bír.",
+      "Gazdájához rendkívül ragaszkodó, árnyékként követi a lakásban.",
+      "Izmos teste ellenére meglepően ügyesen manőverez szűkebb helyeken is.",
+      "Egyedi megjelenése miatt gyakran beszédtéma lesz egy csoportban."
+    ],
+    "hatranyok": [
+      "Bizonyos egyedeknél kényszeres, ismétlődő farokkergetés alakulhat ki unalomban.",
+      "A teljesen fehér egyedeknél nagyobb eséllyel fordul elő veleszületett süketség.",
+      "Örökletes vesebetegségre (nephritis) is hajlamos lehet a fajta.",
+      "Erős állkapcsa miatt csak tapasztalt, határozott gazdának ajánlott a tartása.",
+      "Idegen kutyákkal, különösen hímekkel szemben versengő indulatokat mutathat.",
+      "Kölyökkorban alapos, tudatos szocializációt igényel más állatokkal.",
+      "Napi rendszeres mozgás és mentális elfoglaltság nélkül destruktívvá válhat.",
+      "Néhány országban fajtaspecifikus tartási szabályok is vonatkozhatnak rá.",
+      "Makacs pillanataiban következetes, határozott nevelést igényel.",
+      "Erős akaratereje miatt kezdő gazdának komoly kihívást jelenthet."
+    ]
   },
   {
     "nev": "Staffordshire bullterrier",
     "meret": "kozepes",
     "csoport": "Terrier",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Történelmileg \"dadus kutyaként\" ismert, gyerekek felé rendkívül türelmes.",
+      "Alacsonyabb, zömök testalkata ellenére meglepően fürge és mozgékony.",
+      "Fájdalomtűrése magas, ritkán reagál túlzottan apró ütődésekre.",
+      "Alapos szocializáció után idegenekkel is barátságosan, nyitottan viselkedik.",
+      "Rövid szőrzete miatt egyszerűen, gyorsan tisztán tartható.",
+      "Egy rövid gyakorlás után is örömmel, lelkesen dolgozik együtt.",
+      "Kitartása miatt egy hosszabb gyakorlatsort is végigcsinál fáradtság nélkül.",
+      "Gazdájához rendkívül ragaszkodó, szoros érzelmi kapcsolatot ápol vele.",
+      "Vidám, energikus mozgása jó hangulatot hoz a foglalkozásokra.",
+      "Erős testfelépítése ellenére finoman, óvatosan mozog idősek közelében."
+    ],
+    "hatranyok": [
+      "Örökletes anyagcserezavarra (L-2-HGA) és szürkehályogra is hajlamos.",
+      "Testfelépítéséből fakadó erejét csak tapasztalt gazda tudja jól kezelni.",
+      "Azonos nemű kutyákkal szemben időnként versengő magatartást mutathat.",
+      "Más állatokkal való megismertetése kölyökkortól alapos, türelmes munkát igényel.",
+      "Kezdő gazdának a fizikai ereje miatti kontroll kihívást jelent.",
+      "Testmozgás és feladat nélkül könnyen nyugtalanná, ingerlékennyé válik.",
+      "Egyedül hagyva unalmában bútorokat vagy tárgyakat rágcsálhat.",
+      "Öntörvényű pillanataiban türelmes, kitartó vezetésre van szükség.",
+      "Egyes régiókban tenyésztési vagy tartási korlátozás alá eshet.",
+      "Túlzott lelkesedésében erősebben ránthat a pórázon, mint várnánk."
+    ]
   },
   {
     "nev": "Amerikai staffordshire terrier",
     "meret": "kozepes",
     "csoport": "Terrier",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Angol rokonánál nagyobb, izmosabb testfelépítésű, mégis fürge mozgású.",
+      "Sportos alkata miatt eredetileg súlyhúzó versenyekre is alkalmazták.",
+      "Alapos szocializáció után idegenekkel is nyugodtan, barátságosan viselkedik.",
+      "Rövid szőrzete miatt egyszerűen tisztán tartható.",
+      "Egy kedvenc rágójátékkal azonnal bevonható egy közös feladatba.",
+      "Kitartása miatt egy hosszabb foglalkozást is fáradtság nélkül végigcsinál.",
+      "Nyugodt, magabiztos testtartása biztonságot sugall a közelében állóknak.",
+      "Tanulékonysága miatt gyorsan elsajátítja az alapengedelmességi feladatokat.",
+      "Gyerekekkel megfelelő szoktatás után türelmesen, gyengéden viselkedik.",
+      "Gazdájához mélyen ragaszkodik, hosszú távon megbízható társsá válik."
+    ],
+    "hatranyok": [
+      "Könyökízületi dysplasiára és bizonyos szívbetegségekre egyaránt hajlamos.",
+      "Erős testfelépítése miatt csak tapasztalt, határozott gazdának ajánlott.",
+      "Más kutyákkal szemben, főleg azonos nemű egyedekkel, versengő lehet.",
+      "Kölyökkorban alapos szocializációt igényel más állatokkal szemben.",
+      "Kezdő gazdának a fizikai ereje miatti kontroll komoly kihívást jelent.",
+      "Napi rendszeres mozgásra és mentális elfoglaltságra van szüksége.",
+      "Egyedül hagyva unalmában bútorokat vagy tárgyakat rágcsálhat szét.",
+      "Makacs pillanataiban következetes, határozott vezetést igényel.",
+      "Egyes országokban tenyésztési vagy tartási korlátozás alá eshet.",
+      "Ragaszkodása miatt egyedül maradva szeparációs szorongást fejleszthet ki."
+    ]
   },
   {
     "nev": "Ír terrier",
     "meret": "kozepes",
     "csoport": "Terrier",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Vörösesbarna szőrzete és élénk tekintete azonnal feltűnik egy csoportban.",
+      "Bátor, magabiztos jelleme miatt nagyobb kutyák társaságában sem hátrál meg.",
+      "Gazdájához rendkívül hűséges, kitartóan ragaszkodik hozzá.",
+      "Alapos szoktatás után idegenekkel is barátságosan viselkedik.",
+      "Motiválható jutalomjátékkal, lelkesen bekapcsolódik egy gyakorlatba.",
+      "Egy hosszabb, aktív programot is fáradhatatlanul végigcsinál.",
+      "Szőrzete alig hullik a lakásban, ami könnyebbség érzékenyebb látogatóknak.",
+      "Élénk, harsány kedélye felpezsdíti egy csendesebb csoport hangulatát.",
+      "Egy új jelzést gyakran már a második-harmadik ismétlésnél felismer.",
+      "Gyerekekkel megfelelő szoktatás után türelmesen viselkedik."
+    ],
+    "hatranyok": [
+      "Drótos vörös szőrzetét évi néhányszor szakszerűen kell igazítani.",
+      "Kisebb rágcsálót vagy madarat megpillantva azonnal üldözőbe veheti.",
+      "Más kutyákkal szemben, főleg hímekkel, harcias lehet szoktatás nélkül.",
+      "Napi hosszabb sétát és futtatást igényel, mozgás nélkül nyugtalan.",
+      "Egy tapasztalatlan gazda nehezen tartja kordában az önfejűségét.",
+      "Bizonyos hiperkeratózis nevű bőrbetegségre is hajlamos lehet.",
+      "Unalmában a kertben gödröket áshat vagy tárgyakat rágcsálhat.",
+      "Öntörvényű pillanataiban türelmes, kitartó vezetést igényel.",
+      "Feszültségében kitartó, éles ugatással hívja fel magára a figyelmet.",
+      "Rendszeres szalonlátogatása hosszú távon komoly kiadási tétel."
+    ]
   },
   {
     "nev": "Border terrier",
     "meret": "kicsi",
     "csoport": "Terrier",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Rusztikus, \"vidra fejű\" megjelenése azonnal megkülönbözteti más terrierektől.",
+      "Barátságos, kiegyensúlyozott jelleme miatt kevésbé harcias, mint sok rokona.",
+      "Kompakt mérete miatt könnyen elfér egy kisebb autóban is utazáshoz.",
+      "A vadászmezőn edzett kitartása mindennapi sétákon is jól látszik.",
+      "Egy elrejtett jutalomfalatot lelkesen, kitartóan felkutat.",
+      "Idegenekkel is barátságosan, nyitottan viselkedik szoktatás után.",
+      "Terepen edzett kitartása miatt egy hosszabb sétás programot is jól bír.",
+      "Rövidebb pihenőkkel egy fél napos programot is jól bír.",
+      "Drótos szőrzete viszonylag ritkán szennyeződik be.",
+      "Rugalmas, alkalmazkodó jelleme sokféle helyzethez könnyen illeszkedik."
+    ],
+    "hatranyok": [
+      "Drótos szőrzetét évi néhányszor kézzel kell tépkedni vagy igazítani.",
+      "Kisebb rágcsálót megpillantva azonnal üldözőbe veheti.",
+      "Napi hosszú mozgás híján fokozatosan nyugtalanná, feszültté válik.",
+      "Más állatokkal való megismertetése kölyökkortól alapos munkát igényel.",
+      "Csípőízületi problémákra és szívbetegségre (mitrális billentyű) hajlamos.",
+      "Unalmában a kert gyepét vagy ágyásait is felturkálhatja.",
+      "Egyedül hagyva hosszabb ideig nyüszítéssel jelzi a kényelmetlenségét.",
+      "Dacos periódusaiban csak türelmes, kitartó vezetéssel kezelhető.",
+      "Terelő és vadász gyökerei miatt gyorsan futó dolgokat üldözőbe vehet.",
+      "Rendszeres szakszerű igazítása hosszú távon számottevő kiadás."
+    ]
   },
   {
     "nev": "Bichon frisé",
     "meret": "kicsi",
     "csoport": "Társasági kutya",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Hófehér, pamacsos szőrzete miatt szinte játékmackóra emlékeztet sokakat.",
+      "Franciaországból eredő, régóta ölebként tartott, emberhez szokott fajta.",
+      "Peremes szeme és folyamatos \"mosolygó\" arckifejezése derűt sugároz.",
+      "Nem hullatja a szőrét, ami nagy előny allergiás résztvevők számára.",
+      "Kis mérete miatt ölben tartva is nyugodtan, elégedetten pihen.",
+      "Egy rövid bemutatóval szinte azonnal elbűvöli az új résztvevőket.",
+      "Bohókás ugrándozása jókedvet visz egy csendesebb terembe is.",
+      "Kompakt mérete miatt kisebb szobában is kényelmesen elfér.",
+      "Egy sétáltatós gyakorlatba is lelkesen, könnyedén bekapcsolódik.",
+      "Idegenek felé is nyitottan, félelem nélkül közelít."
+    ],
+    "hatranyok": [
+      "Göndör szőrzete négy-hat hetente szakszerű nyírást igényel.",
+      "Hajlamos húgyhólyagkő-képződésre, ami speciális étrendet indokolhat.",
+      "Szemkörnyéki könnyfolt miatt naponta törölni kell az arcát.",
+      "Fürdetése és szárítása otthon időigényes, visszatérő feladat.",
+      "Egy hirtelen fogás vagy leejtés apró csontozatát könnyen sérti.",
+      "Elkényeztetve hajlamos követelőzővé, nyűgössé válni.",
+      "Térdkalács-elmozdulásra és bizonyos bőrallergiákra egyaránt hajlamos.",
+      "Idegen zajra gyakran magas hangú vakkantással reagál.",
+      "Kezdő gazdának a rendszeres szalonlátogatás megszervezése új feladat.",
+      "Mérete miatt semmilyen őrző vagy védelmi szerepre nem alkalmas."
+    ]
   },
   {
     "nev": "Máltai selyemkutya",
     "meret": "kicsi",
     "csoport": "Társasági kutya",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Egyenes, hosszú, hófehér szőrzete a mediterrán vidékek egyik ősi fajtájáé.",
+      "Apró mérete miatt egy kabátzsebben is elférne egy rövidebb útra.",
+      "Idegen emberekkel is szinte azonnal bizalmas kapcsolatot alakít ki.",
+      "Halk, visszafogott jelenléte nem zavarja meg a csendesebb foglalkozásokat.",
+      "Ölben ülve akár egy egész délutánt is nyugodtan végigpihen.",
+      "Régóta kizárólag társkutyaként tenyésztik, emberközpontú a természete.",
+      "Egy apró falatkával szinte bármilyen egyszerű trükkre rávehető.",
+      "Idős emberek ölében is biztonságosan, nyugodtan elhelyezhető.",
+      "Fürge, könnyed mozgása kecsesen néz ki bemutató közben is.",
+      "Kifejezetten békés, ritkán kezdeményez konfliktust más állatokkal."
+    ],
+    "hatranyok": [
+      "Selymes szőrzetét naponta kell fésülni, hogy ne gubancolódjon össze.",
+      "Bizonyos egyedeknél veleszületett májér-rendellenesség (shunt) fordulhat elő.",
+      "Szemkörnyéki könnyfolt miatt rendszeres arctisztítást igényel.",
+      "Fogazata apró állkapcsa miatt hajlamos a korai fogkőképződésre.",
+      "Erős kötődése miatt hosszabb magányban komoly szorongást mutathat.",
+      "Vércukorszint-ingadozásra hajlamos lehet kölyökkorában.",
+      "Egy óvatlan lépés vagy ölelés könnyen sérülést okozhat rajta.",
+      "Alacsony testhőszabályozó képessége miatt hidegben gyorsan fázik.",
+      "Fehér szőrén könnyen látszik minden folt vagy elszíneződés.",
+      "Rendszeres, szakszerű fürdetése és nyírása visszatérő kiadás."
+    ]
   },
   {
     "nev": "Havanese",
     "meret": "kicsi",
     "csoport": "Társasági kutya",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Kuba nemzeti kutyafajtája, hosszú, hullámos, kettős szőrzettel.",
+      "Jellegzetes, pattogó járása miatt könnyen felismerhető mozgás közben.",
+      "Alapos szoktatás nélkül is barátságosan közelít az idegenek felé.",
+      "Vidám, bohókás előadásmódja miatt szívesen mutat be apró trükköket.",
+      "Nem hullatja jelentősen a szőrét, ez könnyebbség érzékeny résztvevőknek.",
+      "Kis mérete ellenére kifejezetten fürge és mozgékony.",
+      "Éber természete miatt gyorsan jelez egy szokatlan zajra vagy mozgásra.",
+      "Meleg, társasági jelleme miatt gyorsan bekapcsolódik egy csoportba.",
+      "Egy hosszabb ölbeli pihenőt is nyugodtan, elégedetten végigalszik.",
+      "Gyerekek közelségét kifejezetten élvezi, ritkán fárad bele."
+    ],
+    "hatranyok": [
+      "Hullámos szőrzetét hetente többször át kell fésülni a gubancok ellen.",
+      "Apró termete ellenére hajlamos a csípőízületi dysplasiára.",
+      "Éberségéből fakadóan hajlamos gyakran, hangosan jelezni idegen zajra.",
+      "Egy hirtelen mozdulat vagy leejtés apró testén sérülést okozhat.",
+      "Erős kötődése miatt hosszabb magányt nehezen visel el nyugodtan.",
+      "Térdkalács-elmozdulásra és bizonyos szívbetegségekre is hajlamos.",
+      "Kezdő gazdának a törékenységéből fakadó óvatosság új feladat lehet.",
+      "Rendszeres, szakszerű szőrápolása visszatérő kiadási tétel.",
+      "Elkényeztetve hajlamos túlzottan követelőzővé válni.",
+      "Apró termete miatt kizárólag társkutyaként, nem őrzőként érdemes tartani."
+    ]
   },
   {
     "nev": "Törpepudli",
     "meret": "kicsi",
     "csoport": "Társasági kutya",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "A pudli ősei valójában vízimunkára tenyésztett, apportírozó kutyák voltak.",
+      "Kiemelkedő intelligenciája miatt az egyik leggyorsabban tanuló apró fajta.",
+      "Szőrzete szinte alig hullik, ez könnyebbség érzékenyebb résztvevőknek.",
+      "Egy összetett trükksort is néhány gyakorlás után önállóan felidéz.",
+      "Egy kisebb táskában is nyugodtan elutazik egy rövidebb látogatásra.",
+      "Fürge mozgása miatt látványos ugrásokat és fordulatokat mutat be.",
+      "Idegen látogatókat kíváncsian, farokcsóválva köszönt.",
+      "Apró mérete miatt egy szűkebb kórteremben is kényelmesen elfér.",
+      "Vicces, göndör frizurája gyakran mosolyt csal a résztvevők arcára.",
+      "Gyors felfogása miatt szinte azonnal átveszi az új jelzéseket."
+    ],
+    "hatranyok": [
+      "Szőrzetét négy-hat hetente szakemberrel kell nyíratni.",
+      "Bizonyos vonalaknál öröklődő retina-elfajulásra is hajlamos lehet.",
+      "Térdkalács-elmozdulásra és mellékvese-elégtelenségre (Addison-kór) hajlamos.",
+      "Egy óvatlan lépés apró csontozatán könnyen sérülést okozhat.",
+      "Új környezetben eleinte szorongva, visszahúzódva viselkedhet.",
+      "Fogváltás idején szájápolásra fokozottan figyelni kell nála.",
+      "Túl sok inger hatására túlpörgötté, izgatottá válhat.",
+      "Mérete miatt semmilyen komoly őrző szerepre nem alkalmas.",
+      "Rendszeres, szakszerű szőrápolása hosszú távon számottevő kiadás.",
+      "Unaloműzésre kényszeres, ismétlődő mozgásmintát alakíthat ki."
+    ]
   },
   {
     "nev": "Nagypudli",
     "meret": "nagy",
     "csoport": "Társasági kutya",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "A pudlik közül a legnagyobb, eredetileg valódi vízi vadászkutyaként dolgozott.",
+      "Kiváló úszóképessége miatt a vízhez kötődő programokban is remekül helytáll.",
+      "Göndör szőrzete alig hullik, ami könnyebbség érzékenyebb résztvevőknek.",
+      "Az egyik legkönnyebben, leggyorsabban idomítható nagytestű fajta.",
+      "Nyugodt, kiegyensúlyozott felnőttkori temperamentuma jól illik terápiás munkához.",
+      "Testes alkata miatt kényelmesen nekidőlhet, aki mellé letelepszik.",
+      "Gyerekekkel és idősekkel egyaránt gyengéden, türelmesen viselkedik.",
+      "Sokoldalúsága miatt kereső és jelző feladatokra is jól tanítható.",
+      "Egy hosszabb, összetett gyakorlatsort is fáradtság nélkül végigcsinál.",
+      "Alapos szoktatás után idegenekkel is nyugodtan, barátságosan viselkedik."
+    ],
+    "hatranyok": [
+      "Göndör szőrzete rendszeres, szakszerű nyírást és formázást igényel.",
+      "Mély mellkasa miatt fokozott a gyomorforgás kockázata evés után.",
+      "Csípőízületi dysplasiára és mellékvese-elégtelenségre (Addison-kór) hajlamos.",
+      "Bőrmirigy-gyulladásra (sebaceous adenitis) is fokozottan hajlamos fajta.",
+      "Napi rendszeres testmozgás és feladat nélkül nyugtalanná válhat.",
+      "Fiatalon élénk, türelmes, következetes nevelést igényel.",
+      "Nagy testmérete miatt tartása és ápolása jelentős kiadás.",
+      "Fülgyulladásra hajlamos a lelógó, szellőzést nehezítő fülforma miatt.",
+      "Rendszeres szakszerű szőrápolása hosszú távon komoly kiadás.",
+      "Ragaszkodása miatt hosszabb egyedüllétet nehezen visel el."
+    ]
   },
   {
     "nev": "Lagotto romagnolo",
