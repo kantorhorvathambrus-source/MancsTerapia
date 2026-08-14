@@ -1,0 +1,2 @@
+# MancsTerapia
+Kutya terápiás alkalmazás
