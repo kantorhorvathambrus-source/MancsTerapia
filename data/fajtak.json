@@ -800,7 +800,7 @@
     ],
     "hatranyok": [
       "Napi hosszú futtatás nélkül fokozatosan feszültté, nyugtalanná válik.",
-      "Csípőízületi dysplasiára és gyomorforgásra egyaránt hajlamos.",
+      "Csípőízületi problémákra és tüdőgyulladásra hajlamosabb, mint sok más fajta.",
       "Hosszú szőrzete gyakori fésülést igényel az összegubancolódás ellen.",
       "Kölyökkorban rendkívül pajkos, türelmes, következetes nevelést kíván.",
       "Tapasztalatlan gazdának megterhelő lehet a szinte kifogyhatatlan energia.",
@@ -863,7 +863,7 @@
       "Fiatal korban türelmes, következetes vezetést igényel a nagy élénksége miatt.",
       "Első kutyás tartónak kihívást jelenthet az erős vadászösztön kezelése.",
       "Hosszabb egyedüllét esetén unottá, destruktívvá válhat otthon.",
-      "Vadászösztöne miatt szabad terepen nehezen hívható vissza pórázon kívül.",
+      "Mezei szagnyomot követve messzire eltávolodhat pórázon kívül.",
       "Lelógó füle miatt hajlamos a fülgyulladásra, rendszeres ellenőrzést igényel.",
       "Mérete miatt költséges a tartása, az etetéstől az állatorvosi számlákig.",
       "Gyomorforgásra is hajlamos, ezért az etetési szokásokra figyelni kell."
@@ -2323,71 +2323,291 @@
     "nev": "Angol agár",
     "meret": "nagy",
     "csoport": "Agár",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "A világ leggyorsabb kutyafajtája, rövid távon akár 70 km/órás sebességre is képes.",
+      "Otthon meglepően nyugodt, a \"40 mérföldes díványkutya\" becenevet is kiérdemelte.",
+      "Alacsony testzsírszázaléka ellenére kényelmesen elfekszik egy puha takarón.",
+      "Gazdájához csendes, mély hűséggel ragaszkodik.",
+      "Rövid szőrzete miatt egyszerű, gyors a rendszeres ápolása.",
+      "Nyugodt, higgadt idegzete miatt jól viseli a zajos, nyüzsgő környezetet.",
+      "Sok visszavonult versenykutya kifejezetten szelíd, emberbarát felnőtté válik.",
+      "Karcsú, elegáns megjelenése azonnal felkelti a résztvevők figyelmét.",
+      "Nyugodt vizsgálati helyzetekben is higgadtan, együttműködően viselkedik.",
+      "Kevés a szőrhullása, ez könnyebbség érzékenyebb résztvevőknek."
+    ],
+    "hatranyok": [
+      "Versenypályáról érkező egyedeknél átállási időre van szükség a lakáskörnyezethez.",
+      "Papírvékony bőre miatt egy bokor vagy szög is könnyen felsértheti.",
+      "Nyúlánk termete és vékony bőre miatt hidegben gyorsan lehűl.",
+      "Extrém sebessége miatt szabad területen egy pillanat alatt eltűnhet szem elől.",
+      "Csontrákra (osteosarcoma) az átlagosnál nagyobb eséllyel hajlamos.",
+      "Altatószerekre és bizonyos gyógyszerekre szokatlanul érzékenyen reagálhat.",
+      "Kemény padlón fekve nyomási sebek (csigolyakiállások) alakulhatnak ki rajta.",
+      "Kis zsírrétege miatt hosszabb hidegben tartózkodás kockázatos számára.",
+      "Első kutyás gazdának a sebesség miatti biztonsági kockázat új szempont.",
+      "Idősebb korára szívbillentyű-elégtelenség is kialakulhat."
+    ]
   },
   {
     "nev": "Afgán agár",
     "meret": "nagy",
     "csoport": "Agár",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Hosszú, selymes szőrzete és méltóságteljes tartása azonnal lenyűgözi a nézőket.",
+      "Afganisztán hegyvidékén hajtóvadászatra tenyésztett, ősi fajta.",
+      "Nyugodt, arisztokratikus temperamentuma jól illik lassabb tempójú programokhoz.",
+      "Tartózkodó eleganciája miatt sosem tolakodó a résztvevőkkel.",
+      "Nagy sebességű futása ellenére otthon higgadtan viselkedik.",
+      "Ritkán mutat agressziót, inkább tartózkodó, mint harcias.",
+      "Elegáns, könnyed mozgása látványossá teszi a bemutató sétákat.",
+      "Higgadtsága miatt egy zsúfolt teremben is megőrzi a nyugalmát.",
+      "Hosszú szőrű sziluettje messziről felismerhető egy csoportban.",
+      "Karcsú alkata ellenére finoman, óvatosan mozog törékenyebb emberek közelében."
+    ],
+    "hatranyok": [
+      "Hosszú, selymes szőrzete naponta fésülést, gyakori fürdetést igényel.",
+      "Független gondolkodása miatt kevésbé igazodik a megszokott parancsokhoz.",
+      "Fülgyulladásra és bizonyos pajzsmirigy-problémákra is hajlamos.",
+      "Erős vadászösztöne miatt gyors mozgásra azonnal reagál, üldözőbe veheti.",
+      "Idegenekkel szemben elsőre tartózkodó, távolságtartó lehet.",
+      "Kezdő gazdának a szőrápolás időigénye komoly kihívást jelenthet.",
+      "Rendszeres, alapos szőrápolása hosszú távon jelentős kiadás.",
+      "Fájdalomkifejezése visszafogott, nehezebb felismerni, ha rosszul érzi magát.",
+      "Vékony bőre miatt bozótos terepen könnyen megsérülhet.",
+      "Következetlen nevelés mellett zárkózottá, nehezen elérhetővé válhat."
+    ]
   },
   {
     "nev": "Whippet",
     "meret": "kozepes",
     "csoport": "Agár",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "A \"szegény ember agara\" becenévvel is illetik, kompaktabb a greyhoundnál.",
+      "Egy puha takarón szinte egész nap elégedetten szundikál otthon.",
+      "Gazdájával kialakított kapcsolata csendes, de mély és tartós.",
+      "Fényes, rövid szőre alig igényel gondozást, elég átsimítani hetente.",
+      "Kíváncsian, de félelem nélkül közelít az új résztvevők felé.",
+      "Gyerekekkel gyengéden, türelmesen viselkedik megfelelő felügyelettel.",
+      "Egy apró jutalomfalattal gyorsan ráállítható egy rövid gyakorlatra.",
+      "Kis mérete miatt könnyen elfér egy szűkebb kórteremben vagy irodában.",
+      "Higgadt, kiegyensúlyozott jelleme ritkán billen ki nyugalmából.",
+      "Karcsú, sportos alkata mellett is meglepően kényelemszerető."
+    ],
+    "hatranyok": [
+      "Egy elszaladó macska vagy nyúl láttán azonnal, ösztönösen indul utána.",
+      "Kertben biztonságos, magas kerítés nélkül könnyen elkóborolhat vadászat közben.",
+      "Vékony bundája miatt esős, szeles időben gyorsan átázik és kihűl.",
+      "Kis izomtömege ellenére napi kiadós futtatásra van szüksége.",
+      "Erős kötődése miatt egyedül hagyva nyüszítéssel jelezheti a hiányát.",
+      "Csontritkulásra és térdkalács-elmozdulásra egyaránt hajlamos.",
+      "Első kutyás gazdának a hirtelen sprintelés kezelése új tapasztalat.",
+      "Fájdalmát visszafogottan mutatja, nehezebb észrevenni, ha valami fáj neki.",
+      "Fürdés után hosszabb ideig tart, míg vékony bundája teljesen megszárad.",
+      "Túlzott hidegben rövid sétákra és kabátra van szüksége."
+    ]
   },
   {
     "nev": "Spanyol agár",
     "meret": "nagy",
     "csoport": "Agár",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Több évszázados spanyol vadászhagyomány örököse, mégis rendkívül szelíd jellemű.",
+      "Mentett egyedei gondoskodó bánásmód mellett gyorsan hálás társsá válnak.",
+      "Egy nyugodt sarokban órákig elpihen zavartalanul.",
+      "Halk, visszafogott jelenléte kifejezetten kedvez a zajérzékeny csoportoknak.",
+      "Rövid szőre könnyen ápolható, ritkán van szüksége fürdetésre.",
+      "Fokozatos bizalomépítés után idegenekkel is nyugodtan viselkedik.",
+      "Jó szocializáció után gyerekekkel is gyengéden bánik.",
+      "Inkább visszahúzódó, mint harcias, ritkán kezdeményez konfliktust.",
+      "Karcsú, hosszú lábú alkata azonnal megkülönbözteti a csoportban.",
+      "Érzékenyen reagál a kedves szóra és a gyengéd bánásmódra."
+    ],
+    "hatranyok": [
+      "Spanyolországi mentett egyedei gyakran érkeznek bizalmatlanul, félénken.",
+      "Új helyzetekben óvatosan, meghúzódva figyeli a történéseket, míg megnyugszik.",
+      "Hangos, hirtelen zajokra ijedten, menekülő reflexszel reagálhat.",
+      "Testsúlyához képest vékony bőre miatt könnyen felsérül mozgás közben.",
+      "Erős vadászösztöne miatt apró állatokat megpillantva üldözőbe veheti őket.",
+      "Kültéri, hideg időben rövid szőrzete miatt fázékony lehet.",
+      "Bizalomépítése hosszabb, türelmes folyamat egy mentett egyednél.",
+      "Itthon kevésbé elterjedt, nehezebb megbízható forrásból beszerezni.",
+      "Erős kötődése miatt egy új gazdaváltás komoly stresszt okozhat neki.",
+      "Ízületi kopásra hajlamos, ha fiatalon túlzott terhelésnek van kitéve."
+    ]
   },
   {
     "nev": "Olasz agár",
     "meret": "kicsi",
     "csoport": "Agár",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "A legkisebb agárfajta, szinte miniatűr kiadásban hordozza a család vonásait.",
+      "Egy kabátzsebbe is majdnem belefér, annyira apró termetű.",
+      "Egy hosszabb autóutat is nyugodtan, panasz nélkül végigalszik.",
+      "Fényes szőre alig igényel gondozást, elég ritkán átkefélni.",
+      "Csendesen, hűségesen ragaszkodik ahhoz, aki rendszeresen foglalkozik vele.",
+      "Egy apró falatkával könnyen ráállítható egy rövid gyakorlatra.",
+      "Rövid ismerkedés után idegenekkel is bizalmasan viselkedik.",
+      "Alacsony helyigénye miatt egy kisebb irodában is elfér.",
+      "Könnyed, szökellő mozgása kecsesen néz ki bemutató közben is.",
+      "Finom, halk mozgása alig kelt zajt egy csendesebb teremben."
+    ],
+    "hatranyok": [
+      "Vékony, törékeny lábszárcsontja egy rossz ugrástól is eltörhet.",
+      "Egy magasabb kanapéról vagy ágyról leugorva komoly sérülést szerezhet.",
+      "Apró fogazata miatt korán jelentkezhet fogkő és fogvesztés.",
+      "Testhője gyorsan csökken, ezért hidegben kabátra, pulóverre szorulhat.",
+      "Túlzott féltés mellett is óvatlan mozdulattal könnyen megsérülhet.",
+      "Erősen kötődik gazdájához, egy hosszabb egyedüllét komoly szorongást okozhat.",
+      "Semmilyen komolyabb védelmi vagy őrző szerepre nem alkalmas.",
+      "Gyors mozgásra, elszaladó apróságokra ösztönösen felfigyel és utána ered.",
+      "Kisgyerekek közelében fokozott felügyeletet igényel a törékenysége miatt.",
+      "Lépcsőn fel- és lejárás közben is érdemes figyelni rá sérülés elkerülésére."
+    ]
   },
   {
     "nev": "Magyar agár",
     "meret": "nagy",
     "csoport": "Agár",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Magyar őshonos fajta, évszázadok óta nyúl- és rókavadászatra tenyésztve.",
+      "Robusztusabb testfelépítése miatt jobban bírja a hazai időjárást, mint rokonai.",
+      "Egy nyugodt sarokban hosszú órákat is elpihen zavartalanul.",
+      "Csendesen, kitartóan ragaszkodik ahhoz, aki gondoskodik róla.",
+      "Karbantartása egyszerű, rövid szőre ritkán igényel alapos fürdetést.",
+      "Fokozatos szoktatás után idegenekkel is nyugodtan viselkedik.",
+      "Magyar származása miatt gyakran különleges figyelmet kap a foglalkozásokon.",
+      "Karcsú, izmos alkata azonnal megkülönbözteti a csoportban.",
+      "Ritkán reagál ingerülten, még szokatlan helyzetekben is türelmes marad.",
+      "Fáradhatatlan léptekkel bír ki egy hosszabb sétás délutánt is."
+    ],
+    "hatranyok": [
+      "Elsősorban vadászkörökben ismert itthon, nehezebb hozzáférni városi tenyésztőn keresztül.",
+      "Erős zsákmányszerző ösztöne miatt apró állatokat megpillantva elindul utánuk.",
+      "Napi hosszú futtatás híján fokozatosan nyugtalanná, feszültté válik.",
+      "Csípőízületi és szívproblémákra egyaránt hajlamos lehet a fajta.",
+      "Rövid szőrzete miatt kemény télen kabátra vagy meleg fekhelyre szorulhat.",
+      "Gyors sprintje közben egy pillanat alatt eltávolodhat pórázon kívül.",
+      "Kemény, hideg padlón fekve könnyen kialakulhatnak rajta nyomási sérülések.",
+      "Erős kötődése miatt hosszabb magányban szorongást, nyüszítést mutathat.",
+      "Idősebb korára ízületi kopásra és csontritkulásra egyaránt hajlamos.",
+      "Kezdő gazdának a sebesség miatti biztonsági odafigyelés új feladat."
+    ]
   },
   {
     "nev": "Rodéziai ridgeback",
     "meret": "nagy",
     "csoport": "Vadászkutya",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Jellegzetes, hátán végigfutó szőrtaréja azonnal megkülönbözteti más fajtáktól.",
+      "Dél-afrikai eredetű, eredetileg oroszlánok terelésére is használt bátor fajta.",
+      "Gazdájához mélyen, csendesen ragaszkodik, hűséges társ marad.",
+      "Fényes, feszes szőre alig igényel különösebb gondozást.",
+      "Nyugodt, méltóságteljes felnőttkori temperamentuma jól illik komolyabb programokhoz.",
+      "Kitartó, energikus alkata miatt hosszabb sétás foglalkozásokat is jól bír.",
+      "Fokozatos bevezetés után idegenekkel is higgadtan viselkedik.",
+      "Erős, mégis fegyelmezett testfelépítése biztonságérzetet ad a közelében.",
+      "Gyerekekkel megfelelő szocializáció után türelmesen viselkedik.",
+      "Nyugodt bátorsága miatt szokatlan zajokra sem riad meg könnyen."
+    ],
+    "hatranyok": [
+      "Ridge menti bőrciszta (dermoid sinus) néven ismert veleszületett rendellenességre hajlamos.",
+      "Erős terelő-vadász ösztöne miatt futó állatokat követhet.",
+      "Csípőízületi dysplasiára és gyomorforgásra egyaránt hajlamos.",
+      "Önálló, néha makacs jelleme miatt következetes vezetést igényel.",
+      "Más háziállatokkal való megismertetése kölyökkortól alapos munkát igényel.",
+      "Napi hosszabb mozgást és mentális foglalkoztatást igényel.",
+      "Kezdő gazdának az erős akarat és önállóság kihívást jelenthet.",
+      "Idegen kutyákkal szemben eleinte tartózkodó, óvatos lehet.",
+      "Foglalkoztatás híján otthoni tárgyakat rágcsálhat szét unalmában.",
+      "Robusztus testéhez igazodó étrendje havi szinten komoly kiadás."
+    ]
   },
   {
     "nev": "Bloodhound",
     "meret": "nagy",
     "csoport": "Vadászkutya",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "A legkiválóbb szaglású kutyafajták egyike, hivatásos nyomkövetésre is alkalmazzák.",
+      "Higgadt, szinte filozofikus alkata jól illik lassabb tempójú programokhoz.",
+      "Ráncos, jellegzetes arca gyakran mosolyt csal a résztvevők arcára.",
+      "Türelmes, megbocsátó jelleme ritkán vált ingerültségbe.",
+      "Idegenekkel is nyugodtan, barátságosan viselkedik szoktatás után.",
+      "Rövid, sima szőre könnyen tisztán tartható, alig igényel kefélést.",
+      "Kitartóan, türelmesen halad egy hosszabb keresőjátékban is.",
+      "Gazdájához hűséges, kiegyensúlyozott kapcsolatot épít.",
+      "Súlyos testfelépítése ellenére gyengéden viselkedik ismerős emberek közelében.",
+      "Alacsony agresszióküszöbe miatt jól tűri az idegen kezek érintését."
+    ],
+    "hatranyok": [
+      "Lelógó, hosszú füle és laza bőre fokozottan hajlamos fertőzésre.",
+      "Bőséges nyáladzása gyakori törölgetést tesz szükségessé az étkezések után.",
+      "Gyomorforgásra és bizonyos szívbetegségekre egyaránt hajlamos.",
+      "Szaglása miatt szimatot követve nehezen vonható el a figyelme.",
+      "Napi hosszabb sétára és orrmunkára egyaránt igényt tart.",
+      "Testtömegéhez igazodó táplálékadagja havi szinten jelentős kiadás.",
+      "Mély, öblös ugatása hangos lehet zárt térben.",
+      "Növekedése idején kíméletes, fokozatos terhelésre van szüksége.",
+      "Egy erős szagnyomot követve szinte semmi sem tudja eltéríteni.",
+      "Rövid élettartamú fajta nagy mérete miatt, gyakran 10-12 évig él."
+    ]
   },
   {
     "nev": "Basset artésien normand",
     "meret": "kozepes",
     "csoport": "Vadászkutya",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Rövid lábai és hosszú teste ellenére kitartó, szívós vadászfajta.",
+      "Franciaországi vadásztársaságok régóta kedvelt, barátságos falkakutyája.",
+      "Élénk farokmozgással jelzi a jókedvét egy izgalmas szagnyom felfedezésekor.",
+      "Nyugodt, szeretetteljes jelleme jól illik lassabb tempójú programokhoz.",
+      "Ráncos homloka és hosszú füle gyakran mosolyt csal a résztvevők arcára.",
+      "Alacsonyabb energiaszintje miatt könnyen kezelhető csendesebb csoportokban is.",
+      "Egy elrejtett jutalomfalatot kitartóan, lelkesen felkutat.",
+      "Más kutyák és emberek társaságát egyaránt szívesen fogadja.",
+      "Szőre könnyen kezelhető, fürdetés helyett elég egy gyors átkefélés.",
+      "Türelmesen, higgadtan üldögél egy hosszabb ülő foglalkozás alatt is."
+    ],
+    "hatranyok": [
+      "Hosszú háta miatt fokozottan hajlamos porckorongsérvre.",
+      "Lelógó füle alatt gyakran gyűlik nedvesség, ami gyulladást okozhat.",
+      "Rendszeresen ellenőrizni kell a súlyát, könnyen felszed pár kilót.",
+      "Egy izgalmas szagnyomot követve nehezen téríthető el pórázon kívül.",
+      "Mély, öblös hangja hallhatóvá teszi egy szomszédos szobában is.",
+      "Franciaországon kívül ritkábban tenyésztett, nehezebb hozzájutni.",
+      "Rövid lábai miatt kerülni kell vele a magas lépcsőket, ugrálást.",
+      "Csökönyös pillanataiban higgadt, kitartó ismétlésre van szükség.",
+      "Egyedül hagyva hosszasan, hangosan panaszkodhat.",
+      "Szemhéjrendellenességre és fülfertőzésre egyaránt hajlamos fajta."
+    ]
   },
   {
     "nev": "Beagle harrier",
     "meret": "kozepes",
     "csoport": "Vadászkutya",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "A beagle és a harrier keresztezéséből létrejött, kiváló szaglású francia fajta.",
+      "Falkakutyaként könnyedén beilleszkedik egy nagyobb, nyüzsgő csoportba is.",
+      "Kitartó, sportos alkata miatt egy hosszabb terepi programot is jól bír.",
+      "Barátságos, közvetlen modora gyorsan szimpátiát ébreszt idegenekben.",
+      "Egy elrejtett illatnyomot lelkesen, kitartóan felkutat egy játékban.",
+      "Élénk, vidám farokcsóválása jó hangulatot hoz egy csoportba.",
+      "Gyerekek jelenlétét energikusan, mégis türelmesen fogadja.",
+      "Ápolása egyszerű, sima szőrét elég ritkán átkefélni.",
+      "Kiegyensúlyozott felnőttkori jelleme megbízhatóvá teszi ismert helyzetekben.",
+      "Étellel motiválva gyorsan megtanulja az alapvető jelzéseket."
+    ],
+    "hatranyok": [
+      "Egy erős illatnyomot követve pillanatok alatt eltávolodhat a csoporttól.",
+      "Naponta kiadós mozgásra van szüksége, hogy kiegyensúlyozott maradjon.",
+      "Éles, kitartó csaholása zavaró lehet egy csendesebb intézményben.",
+      "Vadászösztöne miatt szabad terepen nehezen hívható vissza pórázon kívül.",
+      "Ízületi problémákra és visszatérő fülgyulladásra egyaránt hajlamos.",
+      "Magára hagyva hosszan, hangosan üvöltve jelezheti a kényelmetlenségét.",
+      "Itthon szinte alig ismert fajta, nehéz hozzá megbízható tenyésztőt találni.",
+      "Öntörvényű pillanataiban következetes, kitartó vezetést igényel.",
+      "Kezdő gazdának kihívást jelenthet a szaglás miatti könnyű elkalandozás.",
+      "Étel iránti erős motivációja miatt könnyen elhízhat felügyelet nélkül."
+    ]
   },
   {
     "nev": "Törpetacskó",
