@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kutyafajták – Tappancs Terápia</title>
+<meta name="description" content="120 kutyafajta erősségei és kihívásai egy helyen, hogy megalapozottan válassz kutyát magadnak vagy a családodnak.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/stilus.css">
+</head>
+<body>
+
+<header class="fejlec">
+  <div class="tartalom">
+    <a href="index.html#fooldal" class="logo">
+      <svg class="logo-mancs" viewBox="0 0 64 64" fill="currentColor" aria-hidden="true">
+        <circle cx="32" cy="40" r="14"></circle>
+        <circle cx="14" cy="24" r="8"></circle>
+        <circle cx="50" cy="24" r="8"></circle>
+        <circle cx="10" cy="42" r="6.5"></circle>
+        <circle cx="54" cy="42" r="6.5"></circle>
+      </svg>
+      Tappancs Terápia
+    </a>
+    <button class="menu-kapcsolo" id="menu-gomb" aria-expanded="false" aria-controls="navigacio">☰ Menü</button>
+    <nav class="navigacio" id="navigacio">
+      <ul>
+        <li><a href="index.html#fooldal">Főoldal</a></li>
+        <li><a href="index.html#szolgaltatasok">Szolgáltatások</a></li>
+        <li><a href="fajtak.html">Kutyafajták</a></li>
+        <li><a href="index.html#rolunk">Rólunk</a></li>
+        <li><a href="index.html#kapcsolat">Kapcsolat</a></li>
+      </ul>
+      <a href="index.html#kapcsolat" class="gomb gomb--rozsaszin">Kapcsolat</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <section class="fajtak-fejlec">
+    <div class="tartalom">
+      <h1>Kutya<span class="kiemeles">fajták</span></h1>
+      <p>120 fajta erősségei és kihívásai egy helyen, hogy megalapozottan válassz társat magadnak vagy a családodnak. Kattints egy kártyára a részletekért.</p>
+    </div>
+  </section>
+
+  <div class="szuro-sav">
+    <div class="tartalom">
+      <div class="kereso-mezo">
+        <label for="fajta-kereso" class="vizualisan-rejtett" style="position:absolute;left:-9999px;">Fajta keresése</label>
+        <input type="search" id="fajta-kereso" placeholder="Keress fajta neve alapján… (pl. puli, retriever)">
+      </div>
+      <div class="meret-szuro" role="group" aria-label="Szűrés méret szerint">
+        <button class="meret-gomb" data-meret="mind" aria-pressed="true">Mind</button>
+        <button class="meret-gomb" data-meret="kicsi" aria-pressed="false">Kis testű</button>
+        <button class="meret-gomb" data-meret="kozepes" aria-pressed="false">Közepes testű</button>
+        <button class="meret-gomb" data-meret="nagy" aria-pressed="false">Nagy testű</button>
+      </div>
+    </div>
+  </div>
+
+  <section class="szakasz" style="padding-top:1rem;">
+    <div class="tartalom">
+      <p class="talalatok-szam" id="talalatok-szam">Fajták betöltése…</p>
+      <div class="fajta-racs" id="fajta-racs"></div>
+      <p class="nincs-talalat" id="nincs-talalat">Nincs a keresésnek megfelelő fajta. Próbálj más kifejezést vagy szűrőt.</p>
+    </div>
+  </section>
+
+</main>
+
+<footer class="lablec">
+  <div class="tartalom">
+    <div class="lablec-racs">
+      <div>
+        <div class="lablec-logo">Tappancs Terápia</div>
+        <p>Együtt · Gyógyítunk · Nevelünk<br>Mert a szeretet négy lábon jár.</p>
+      </div>
+      <div>
+        <h4>Gyors linkek</h4>
+        <ul>
+          <li><a href="index.html#fooldal">Főoldal</a></li>
+          <li><a href="index.html#szolgaltatasok">Szolgáltatások</a></li>
+          <li><a href="fajtak.html">Kutyafajták</a></li>
+          <li><a href="index.html#rolunk">Rólunk</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Szolgáltatások</h4>
+        <ul>
+          <li><a href="index.html#szolgaltatasok">Terápiás foglalkozások</a></li>
+          <li><a href="index.html#szolgaltatasok">Kölyökkutya felkészítés</a></li>
+          <li><a href="index.html#szolgaltatasok">Fajtaválasztási tanácsadás</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Kapcsolat</h4>
+        <ul>
+          <li>Nágocs, Magyarország</li>
+          <li><a href="tel:+36203796098">+36 20 379 6098</a></li>
+          <li><a href="mailto:terapiasfoglalkozas@gmail.com">terapiasfoglalkozas@gmail.com</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="lablec-also">© 2024 Tappancs Terápia – Minden jog fenntartva.</div>
+  </div>
+</footer>
+
+<script src="js/szkript.js"></script>
+<script src="js/fajtak.js"></script>
+</body>
+</html>

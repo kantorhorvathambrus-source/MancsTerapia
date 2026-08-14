@@ -1,0 +1,1282 @@
+[
+  {
+    "nev": "Magyar vizsla",
+    "meret": "kozepes",
+    "csoport": "Vadászkutya",
+    "erossegek": [
+      "Rendkívül emberközpontú, ezért kiválóan alkalmas terápiás munkára is.",
+      "Nyugodt, figyelmes természete megnyugtató jelenlétet nyújt stresszes helyzetekben.",
+      "Gyorsan megtanulja az alapengedelmességi parancsokat és a trükköket.",
+      "Érzékenyen reagál gazdája hangulatára, így jó társ szorongó embereknek.",
+      "Rövid szőre miatt könnyű tisztán tartani, kevesebbet szőrhullik.",
+      "Barátságos idegenekkel is, ritkán mutat félelemből fakadó agressziót.",
+      "Kiváló szaglása miatt sokoldalúan bevethető kereső feladatokra is.",
+      "Aktív életmódhoz illő, lelkes és kitartó társ túrázáshoz, futáshoz.",
+      "Gyerekekkel türelmes és játékos, jól tűri a simogatást, ölelést.",
+      "Intelligenciája miatt új környezetekhez és helyzetekhez gyorsan alkalmazkodik."
+    ],
+    "hatranyok": [
+      "Napi több órás mozgásigénye van, unatkozva rombolóvá válhat.",
+      "Hajlamos a csípőízületi dysplasiára, ami rendszeres szűrést igényel.",
+      "Enyhén szőrhullik egész évben, heti kefélést érdemes beiktatni.",
+      "Erősen kötődik gazdájához, egyedül hagyva szeparációs szorongást fejleszthet ki.",
+      "Érzékeny természete miatt a durva kiképzési módszerek visszavetik a fejlődését.",
+      "Epilepszia és bizonyos daganatos betegségek is előfordulnak a fajtában.",
+      "Első kutyás gazdának megterhelő lehet a magas energiaszintje miatt.",
+      "Vékony szőrzete miatt hidegben, fűtetlen térben fázékony lehet.",
+      "Táplálkozása, rendszeres mozgatása és állatorvosi ellátása miatt költséges tartani.",
+      "Sok mozgás híján stresszében hangosan nyüszíthet vagy ugathat."
+    ]
+  },
+  {
+    "nev": "Drótszőrű magyar vizsla",
+    "meret": "kozepes",
+    "csoport": "Vadászkutya",
+    "erossegek": [
+      "Kiegyensúlyozott temperamentuma miatt jól alkalmazkodik terápiás helyzetekhez.",
+      "Sűrű, vízlepergető szőrzete ellenállóbbá teszi rossz időjárás esetén is.",
+      "Emberszerető, hűséges társ, aki szoros kapcsolatot épít gazdájával.",
+      "Kiváló orra miatt könnyen tanítható kereső és jelző feladatokra.",
+      "Gyerekekkel türelmes, ritkán mutat ingerültséget játék közben.",
+      "Testmozgás után gyorsan lenyugszik, otthon nyugodt társaságot nyújt.",
+      "Tanulékony, jutalomfalattal és játékkal is jól motiválható.",
+      "Idegenekkel barátságos, nem jellemző rá a félelemből eredő agresszió.",
+      "Aktív, mégis simulékony természete miatt sokféle gazdához illik.",
+      "Erős kötődése miatt megbízható családtaggá válik hosszú távon."
+    ],
+    "hatranyok": [
+      "Napi hosszabb sétát és futást igényel, kevés mozgás mellett nyugtalan.",
+      "Csípőízületi dysplasiára és pajzsmirigy-alulműködésre is hajlamos lehet.",
+      "Drótszőrét évente néhányszor szakszerűen trimmelni kell, nem elég a kefélés.",
+      "Egyedül hagyva hosszabb ideig szorongóvá és ugatóssá válhat.",
+      "Vadászösztöne erős, pórázon kívül nehezen hívható vissza szabad területen.",
+      "Első kutyás tartónak a magas energiaszint kihívást jelenthet.",
+      "Kemény, ingerszegény tartás mellett a viselkedése problémássá válhat.",
+      "Tartása, edzése és szőrápolása rendszeres időbeli és anyagi ráfordítást igényel.",
+      "Zárt, mozgás nélküli lakáskörnyezetben nehezen érzi jól magát.",
+      "Feszültség esetén hangos vonyítással vagy ugatással jelez."
+    ]
+  },
+  {
+    "nev": "Puli",
+    "meret": "kicsi",
+    "csoport": "Pásztorkutya",
+    "erossegek": [
+      "Kicsi mérete és barátságos természete miatt jól bevethető intézményi látogatásokon.",
+      "Rendkívül figyelmes, gyorsan észreveszi gazdája hangulatváltozásait.",
+      "Fürge, ügyes mozgása miatt látványos trükköket is könnyen megtanul.",
+      "Zsinóros szőrzete nem hullik szét a lakásban, allergiásoknak kedvezőbb lehet.",
+      "Éber természete miatt hamar jelez, ha valami szokatlan történik.",
+      "Erősen kötődik gazdájához, hűséges és megbízható családtaggá válik.",
+      "Intelligenciája miatt gyorsan tanulja az új parancsokat és feladatokat.",
+      "Kis testmérete miatt kisebb lakásban is kényelmesen elfér.",
+      "Vidám, játékos kedve miatt jó hangulatot hoz a foglalkozásokra.",
+      "Gyerekekkel megfelelő szocializáció mellett türelmes és játékos társ."
+    ],
+    "hatranyok": [
+      "Zsinóros szőrzete rendszeres, időigényes formázást és tisztítást kíván.",
+      "Hajlamos a csípőízületi dysplasiára és szembetegségekre.",
+      "Erős terelő ösztöne miatt futkározó gyerekeket vagy biciklit is megkergethet.",
+      "Éberségéből fakadóan sokat ugathat idegen zajokra vagy látogatókra.",
+      "Egyedül hagyva unatkozhat, és ezt rombolással vagy ugatással jelezheti.",
+      "Kemény kiképzési módszerekre makacssággal és visszahúzódással reagálhat.",
+      "Zsinórjai nedvesen lassan száradnak, ami kellemetlen szagot okozhat.",
+      "Első kutyás gazdának a szőrápolás megtanulása komoly kihívást jelenthet.",
+      "Napi mozgás és mentális kihívás nélkül ideges, nyűgös lehet.",
+      "Rendszeres szőrápolása miatt hosszú távon költséges a tartása."
+    ]
+  },
+  {
+    "nev": "Pumi",
+    "meret": "kicsi",
+    "csoport": "Pásztorkutya",
+    "erossegek": [
+      "Élénk, vidám természete gyorsan feloldja a feszült légkört egy teremben.",
+      "Kis mérete miatt könnyen szállítható intézményi látogatásokra is.",
+      "Gyors felfogása miatt rövid idő alatt megtanulja az új parancsokat.",
+      "Hullámos szőrzete ritkábban igényel fürdetést, mint sok más fajtáé.",
+      "Játékos kedve miatt jól motiválható jutalomjátékkal a foglalkozásokon.",
+      "Erős figyelemmegosztó képessége miatt jól terelhető társ terápiás munkára.",
+      "Emberekhez barátságosan közeledik, ritkán mutat félelmet idegenekkel.",
+      "Fürge, sportos alkata miatt ügyességi feladatokra is remekül alkalmas.",
+      "Hűséges, gazdájához igazodó viselkedése bizalmat épít a résztvevőkben.",
+      "Kompakt mérete miatt ölbe vehető, ami közelebb hozza az embereket."
+    ],
+    "hatranyok": [
+      "Rendkívül élénk, ezért sok napi mozgás és feladat nélkül ideges.",
+      "Terelő ösztöne miatt hajlamos megugatni és megkergetni a mozgó dolgokat.",
+      "Hangos fajta, éber ugatással reagál minden szokatlan zajra.",
+      "Hajlamos a csípőízületi dysplasiára és a szem degeneratív betegségeire.",
+      "Egyedül hagyva könnyen szeparációs szorongást fejleszt ki.",
+      "Makacs pillanataiban következetes, türelmes kiképzést igényel.",
+      "Első kutyás gazdának a magas aktivitási szint megterhelő lehet.",
+      "Mentális inger hiányában rombolóvá vagy túlzottan ugatóssá válhat.",
+      "Szőrzete rendszeres kefélést igényel az összegubancolódás elkerülésére.",
+      "Ritka fajta lévén a képzett kölyök beszerzése hosszabb várakozással jár."
+    ]
+  },
+  {
+    "nev": "Mudi",
+    "meret": "kicsi",
+    "csoport": "Pásztorkutya",
+    "erossegek": [
+      "Sokoldalú, könnyen tanítható fajta, gyorsan alkalmazkodik új feladatokhoz.",
+      "Éber, de barátságos természete miatt megbízható társ csoportos foglalkozásokon.",
+      "Közepes mérete miatt kezelhető, mégis kitartó, energikus munkatárs.",
+      "Erős problémamegoldó képessége miatt jól kezeli a váratlan helyzeteket.",
+      "Gazdájához hűséges, figyelmes, gyorsan reagál a hangjelzésekre.",
+      "Játékossága miatt vidám hangulatot hoz a terápiás foglalkozásokra.",
+      "Bátor, mégis kiegyensúlyozott, nem ijed meg könnyen idegen környezetben.",
+      "Rövid, hullámos szőrzete könnyen ápolható, ritkán igényel fürdetést.",
+      "Tanulékonysága miatt komplex trükköket is elsajátíthat rövid idő alatt.",
+      "Alacsony allergénszintje miatt érzékenyebb résztvevők számára is kedvezőbb választás."
+    ],
+    "hatranyok": [
+      "Nagyon magas a mozgás- és foglalkoztatási igénye, unottan destruktív lehet.",
+      "Éberségéből adódóan hajlamos sokat ugatni idegenekre és zajokra.",
+      "Csípőízületi problémák és szembetegségek is előfordulnak a fajtában.",
+      "Erős terelő ösztöne miatt megkergetheti a futó gyerekeket vagy autókat.",
+      "Kevéssé ismert fajta, nehéz hozzáférni tapasztalt tenyésztőhöz és kölyökhöz.",
+      "Egyedül hagyva hosszabb ideig szorongóvá és hangossá válhat.",
+      "Első kutyás gazdának a magas energiaszint komoly kihívást jelenthet.",
+      "Következetlen kiképzés mellett makacs, nehezen irányítható viselkedést mutathat.",
+      "Erős vadászösztöne miatt szabadon engedve nehezen hívható vissza.",
+      "Speciális igényei miatt a képzése és szocializációja időigényes feladat."
+    ]
+  },
+  {
+    "nev": "Komondor",
+    "meret": "nagy",
+    "csoport": "Pásztorkutya",
+    "erossegek": [
+      "Nyugodt, méltóságteljes jelenléte megnyugtató hatással van a környezetére.",
+      "Éber természete miatt megbízhatóan jelzi, ha valami szokatlan történik.",
+      "Felnőttként kiegyensúlyozott, ritkán reagál túlzott izgalommal a foglalkozásokon.",
+      "Hűséges, védelmező ösztöne miatt erős bizalmi kapcsolatot épít gazdájával.",
+      "Nagy testmérete miatt kényelmesen simogatható, biztonságérzetet ad az embereknek.",
+      "Kitartó, higgadt viselkedése jól illik nyugodt tempójú intézményi látogatásokhoz.",
+      "Jól szocializálva türelmes gyerekekkel és idősekkel egyaránt.",
+      "Fehér, zsinóros szőrzete miatt jellegzetes, könnyen felismerhető megjelenésű.",
+      "Ritkán ugat feleslegesen, csak valódi okkal jelez hangosan.",
+      "Alacsony agresszióküszöbe miatt szoktatás után jól tűri idegen kezek érintését."
+    ],
+    "hatranyok": [
+      "Hatalmas termete miatt kis lakásban nehezen mozog kényelmesen.",
+      "Zsinóros szőrzete rendkívül időigényes ápolást és rendszeres tisztítást kíván.",
+      "Hajlamos a csípő- és könyökízületi dysplasiára nagy testmérete miatt.",
+      "Erős őrző ösztöne miatt idegenekkel szemben eleinte bizalmatlan lehet.",
+      "Önálló gondolkodása miatt nehezen irányítható, ha nem következetes a kiképzés.",
+      "Első kutyás gazdának komoly kihívást jelent a mérete és önállósága.",
+      "Zsinórjai nedvesen lassan száradnak, ami kellemetlen szagot okozhat.",
+      "Táplálkozása és állatorvosi ellátása nagy mérete miatt költséges.",
+      "Fiatalon sok mozgást és szocializációt igényel, hogy kiegyensúlyozott felnőtt legyen.",
+      "Éberségéből adódóan éjszaka is ugathat, ha veszélyt érzékel a környezetében."
+    ]
+  },
+  {
+    "nev": "Kuvasz",
+    "meret": "nagy",
+    "csoport": "Pásztorkutya",
+    "erossegek": [
+      "Nyugodt, önálló természete miatt higgadtan viselkedik nyugodt környezetben.",
+      "Erős védelmező ösztöne miatt biztonságérzetet ad a körülötte lévőknek.",
+      "Jól szocializálva figyelmes, türelmes társ idősekkel és gyerekekkel.",
+      "Hűséges, gazdájához szorosan kötődő, megbízható kapcsolatot épít.",
+      "Fehér, sűrű szőrzete miatt jellegzetes, bizalomgerjesztő megjelenésű kutya.",
+      "Kiegyensúlyozott felnőttként ritkán reagál túlzott izgalommal új helyzetekre.",
+      "Bátorsága miatt nyugodtan viselkedik zajos vagy nyüzsgő környezetben is.",
+      "Éber, de nem feleslegesen hangos, csak valódi okkal jelez.",
+      "Nagy mérete ellenére gyengéden viselkedik ismerős emberek társaságában.",
+      "Erős ösztönei miatt megbízhatóan felismeri a veszélyes helyzeteket."
+    ],
+    "hatranyok": [
+      "Erős önállósága miatt nehezen irányítható, ha nem következetes a nevelés.",
+      "Idegenekkel szemben bizalmatlan lehet, alapos szocializációt igényel kölyökkorban.",
+      "Hajlamos a csípőízületi dysplasiára és egyéb vázrendszeri problémákra.",
+      "Sűrű szőrzete rendszeres kefélést igényel, különösen szőrváltás idején.",
+      "Nagy testmérete miatt tartása és étkeztetése költséges.",
+      "Első kutyás gazdának komoly kihívást jelent az őrző ösztöne kezelése.",
+      "Éberségéből adódóan éjszaka is ugathat vélt veszély esetén.",
+      "Fiatalkori szocializáció hiányában felnőttként túlzottan óvatossá válhat.",
+      "Kis lakásban, mozgás nélkül nehezen érzi jól magát.",
+      "Erős territoriális viselkedése miatt más kutyákkal konfliktusba kerülhet."
+    ]
+  },
+  {
+    "nev": "Erdélyi kopó",
+    "meret": "kozepes",
+    "csoport": "Vadászkutya",
+    "erossegek": [
+      "Kitartó, bátor természete miatt magabiztosan viselkedik új helyzetekben.",
+      "Erős szaglása miatt könnyen tanítható kereső feladatokra is.",
+      "Gazdájához hűséges, szoros érzelmi kötődést alakít ki vele.",
+      "Jól szocializálva barátságos idegenekkel és más kutyákkal is.",
+      "Energikus, mégis kiegyensúlyozott, jól illik aktív gazdákhoz.",
+      "Rövid szőrzete könnyen ápolható, ritkán igényel különleges gondozást.",
+      "Kitartása miatt hosszabb foglalkozásokon is fenntartja a figyelmét.",
+      "Vadászösztöne mellett is szelíden viselkedik ismerős emberek közelében.",
+      "Robusztus felépítése miatt jól bírja a hosszabb sétákat, túrákat.",
+      "Ritka, magyar fajtaként különleges figyelmet kelt a foglalkozásokon."
+    ],
+    "hatranyok": [
+      "Erős vadászösztöne miatt szabadon engedve nehezen hívható vissza.",
+      "Hangos, mély ugatása zavaró lehet zárt, csendes környezetben.",
+      "Napi hosszú sétát és futást igényel, mozgás nélkül nyugtalan.",
+      "Ritka fajta lévén nehéz megbízható tenyésztőt és kölyköt találni.",
+      "Első kutyás gazdának a vadászösztön kezelése komoly kihívást jelenthet.",
+      "Csípőízületi problémákra és fülgyulladásra is hajlamos lehet.",
+      "Egyedül hagyva unatkozhat, és ezt ugatással vagy rágással jelezheti.",
+      "Idegen kisállatokkal szemben erős üldözési ösztönt mutathat.",
+      "Kemény, türelmetlen kiképzés mellett makacsul viselkedhet.",
+      "Kültéri, aktív tartást igényel, lakáskutyaként nehezen boldogul."
+    ]
+  },
+  {
+    "nev": "Labrador retriever",
+    "meret": "nagy",
+    "csoport": "Retriever",
+    "erossegek": [
+      "Barátságos, türelmes természete miatt az egyik legnépszerűbb terápiás fajta.",
+      "Rendkívül tanulékony, gyorsan elsajátítja az új parancsokat és trükköket.",
+      "Stabil idegzete miatt nyugodtan viselkedik zajos, nyüzsgő környezetben is.",
+      "Gyerekekkel és idősekkel egyaránt türelmes, gyengéd viselkedést mutat.",
+      "Jutalomfalattal és játékkal könnyen motiválható a foglalkozások során.",
+      "Barátságos idegenekkel is, ritkán mutat félelemből fakadó agressziót.",
+      "Erős, mégis kezelhető mérete miatt sokféle helyzetben bevethető.",
+      "Rövid szőre miatt viszonylag könnyen tisztán tartható.",
+      "Kiváló szaglása miatt kereső és jelző feladatokra is alkalmas.",
+      "Kiegyensúlyozott temperamentuma miatt elsőre találkozó emberekkel is nyugodt marad."
+    ],
+    "hatranyok": [
+      "Hajlamos a túlevésre és elhízásra, ami ízületi terhelést okozhat.",
+      "Csípő- és könyökízületi dysplasiára is fokozottan hajlamos fajta.",
+      "Sűrű szőrzete egész évben hullik, rendszeres kefélést igényel.",
+      "Nagy energiaszintje miatt napi hosszabb mozgásra van szüksége.",
+      "Fiatalon rendkívül élénk, következetes kiképzést igényel a nyugalomhoz.",
+      "Nagy testmérete miatt tartása, étkeztetése költséges lehet.",
+      "Egyedül hagyva unatkozhat, és ezt rágcsálással vagy ugatással jelezheti.",
+      "Vízhez és sárhoz vonzódik, ami gyakoribb fürdetést tesz szükségessé.",
+      "Falánksága miatt figyelni kell, mit vesz fel a földről.",
+      "Első kutyás gazdának a mérete és energiaszintje kihívást jelenthet."
+    ]
+  },
+  {
+    "nev": "Golden retriever",
+    "meret": "nagy",
+    "csoport": "Retriever",
+    "erossegek": [
+      "Kiegyensúlyozott, türelmes természete miatt az egyik legkedveltebb terápiás fajta.",
+      "Rendkívül emberbarát, gyorsan bizalmat épít idegenekkel is.",
+      "Könnyen tanítható, örömmel dolgozik együtt új feladatokon.",
+      "Gyerekekkel és idősekkel egyaránt gyengéd, türelmes viselkedést mutat.",
+      "Nyugodt idegzete miatt jól viseli a zajos, nyüzsgő környezetet.",
+      "Simogatható, dús szőrzete sok embernek megnyugtató érzést ad.",
+      "Motiválható jutalomfalattal és dicsérettel, könnyen irányítható foglalkozásokon.",
+      "Ritkán mutat agressziót, még stresszes helyzetekben is türelmes marad.",
+      "Erős, mégis gyengéd testfelépítése miatt biztonságos ölelni, simogatni.",
+      "Hűséges, figyelmes természete miatt megbízható partner hosszú távon."
+    ],
+    "hatranyok": [
+      "Fokozottan hajlamos daganatos megbetegedésekre és csípőízületi dysplasiára.",
+      "Dús szőrzete egész évben hullik, gyakori kefélést igényel.",
+      "Nagy energiaszintje miatt napi hosszabb mozgásra van szüksége.",
+      "Falánk fajta, hajlamos a túletetésre és az elhízásra.",
+      "Nagy testmérete miatt tartása és állatorvosi ellátása költséges.",
+      "Fiatalon rendkívül élénk, türelmes, következetes nevelést igényel.",
+      "Egyedül hagyva unatkozhat, és ezt rágcsálással jelezheti otthon.",
+      "Vízhez erősen vonzódik, ami gyakoribb fürdetést tesz szükségessé.",
+      "Első kutyás gazdának a mérete és mozgásigénye kihívást jelenthet.",
+      "Fülgyulladásra hajlamos a lelógó, szellőzést nehezítő fülforma miatt."
+    ]
+  },
+  {
+    "nev": "Border collie",
+    "meret": "kozepes",
+    "csoport": "Pásztorkutya",
+    "erossegek": [
+      "Kivételes intelligenciája miatt rendkívül gyorsan tanulja az új feladatokat.",
+      "Éles figyelme miatt azonnal reagál a legapróbb kézjelekre is.",
+      "Munkakedve és fókusza miatt kiválóan alkalmas összetett trükkök bemutatására.",
+      "Emberközpontú, szoros szemkontaktust tart, ami bizalmat épít a résztvevőkben.",
+      "Energikus, mégis fegyelmezett, jól kezelhető strukturált foglalkozásokon.",
+      "Motiválható labdával, játékkal, könnyen bevonható közös feladatokba.",
+      "Kitartása miatt hosszabb, összetett gyakorlatsorokat is végig tudja csinálni.",
+      "Érzékeny a gazdája hangulatára, gyorsan alkalmazkodik a légkörhöz.",
+      "Sportos, ügyes mozgása látványossá teszi a bemutató jellegű foglalkozásokat.",
+      "Tanulékonysága miatt rövid idő alatt új, egyedi feladatokra idomítható."
+    ],
+    "hatranyok": [
+      "Rendkívül magas a mozgás- és mentális foglalkoztatási igénye.",
+      "Foglalkoztatás híján kényszeres viselkedést, például árnyékkergetést alakíthat ki.",
+      "Erős terelő ösztöne miatt megkergetheti a futó gyerekeket vagy kerékpárosokat.",
+      "Hajlamos a csípőízületi dysplasiára és bizonyos szembetegségekre.",
+      "Első kutyás gazdának a magas intelligencia és energiaszint kihívást jelent.",
+      "Egyedül hagyva unatkozhat, és ezt rombolással vagy ugatással jelezheti.",
+      "Zajos, kiszámíthatatlan környezetben túlingerelté válhat.",
+      "Sűrű szőrzete rendszeres kefélést igényel, főleg szőrváltáskor.",
+      "Következetlen kiképzés mellett makacs, nehezen kezelhető viselkedést mutathat.",
+      "Munkakedve miatt kültéri, aktív tartást igényel, nehezen boldogul tétlenül."
+    ]
+  },
+  {
+    "nev": "Ausztrál juhászkutya",
+    "meret": "kozepes",
+    "csoport": "Pásztorkutya",
+    "erossegek": [
+      "Élénk, figyelmes természete miatt gyorsan reagál az emberi jelzésekre.",
+      "Erős munkakedve miatt lelkesen vesz részt strukturált foglalkozásokon.",
+      "Intelligenciája miatt rövid idő alatt megtanulja az új feladatokat.",
+      "Gazdájához hűséges, szoros érzelmi kapcsolatot épít vele.",
+      "Sportos, kitartó alkata miatt hosszabb foglalkozásokat is jól bír.",
+      "Színes, feltűnő megjelenése gyakran felkelti a résztvevők figyelmét.",
+      "Jól szocializálva barátságos, játékos gyerekekkel és idősekkel is.",
+      "Motiválható jutalomjátékkal, könnyen bevonható közös feladatokba.",
+      "Éber, de nem agresszív, inkább figyelmes és óvatos idegenekkel.",
+      "Sokoldalúsága miatt sokféle terápiás feladatra betanítható."
+    ],
+    "hatranyok": [
+      "Nagyon magas mozgás- és mentális igénye van, unottan destruktív lehet.",
+      "Erős terelő ösztöne miatt megkergetheti a mozgó embereket vagy állatokat.",
+      "Hajlamos a csípőízületi dysplasiára és örökletes szembetegségekre.",
+      "Bizonyos színváltozatoknál fokozott a veleszületett halláskárosodás kockázata.",
+      "Első kutyás gazdának a magas energiaszint komoly kihívást jelenthet.",
+      "Idegenekkel szemben eleinte tartózkodó, alapos szocializációt igényel.",
+      "Egyedül hagyva szeparációs szorongást és ugatást fejleszthet ki.",
+      "Sűrű szőrzete rendszeres kefélést igényel, különösen szőrváltáskor.",
+      "Foglalkoztatás híján kényszeres, ismétlődő viselkedést alakíthat ki.",
+      "Kültéri, aktív életmódot igényel, lakáskutyaként nehezen boldogul."
+    ]
+  },
+  {
+    "nev": "Német juhászkutya",
+    "meret": "nagy",
+    "csoport": "Pásztorkutya",
+    "erossegek": [
+      "Kiváló tanulékonysága miatt széles körben alkalmazott munkakutya-fajta.",
+      "Bátor, magabiztos jelenléte biztonságérzetet ad a résztvevőknek.",
+      "Gazdájához rendkívül hűséges, erős bizalmi kapcsolatot épít.",
+      "Sokoldalúsága miatt terápiás, kereső és jelző feladatokra is alkalmas.",
+      "Stabil idegzete miatt jól kezeli a váratlan, zajos helyzeteket.",
+      "Erős védelmező ösztöne miatt megbízható társ idősek mellett is.",
+      "Kitartása miatt hosszabb, összetett gyakorlatsorokat is végig tudja csinálni.",
+      "Jól szocializálva türelmes és figyelmes gyerekekkel egyaránt.",
+      "Nagy testfelépítése ellenére gyengéden viselkedik ismerős emberek közelében.",
+      "Éber, de fegyelmezett, csak indokolt esetben jelez hangosan."
+    ],
+    "hatranyok": [
+      "Fokozottan hajlamos a csípő- és könyökízületi dysplasiára.",
+      "Napi hosszabb mozgást és mentális foglalkoztatást igényel.",
+      "Sűrű szőrzete egész évben hullik, gyakori kefélést igényel.",
+      "Első kutyás gazdának a mérete és erős ösztönei kihívást jelentenek.",
+      "Idegenekkel szemben eleinte tartózkodó, alapos szocializációt igényel kölyökkorban.",
+      "Gerincvelői degeneratív betegségre is hajlamos lehet időskorban.",
+      "Egyedül hagyva szeparációs szorongást és ugatást fejleszthet ki.",
+      "Következetlen kiképzés mellett túlzottan éber, gyanakvó viselkedést mutathat.",
+      "Nagy testmérete miatt tartása és állatorvosi ellátása költséges.",
+      "Erős territoriális ösztöne miatt más kutyákkal konfliktusba kerülhet."
+    ]
+  },
+  {
+    "nev": "Belga juhászkutya (malinois)",
+    "meret": "kozepes",
+    "csoport": "Pásztorkutya",
+    "erossegek": [
+      "Rendkívüli munkakedve miatt kiválóan alkalmas összetett feladatok tanulására.",
+      "Gyors reakcióideje miatt azonnal reagál a legapróbb jelzésekre is.",
+      "Gazdájához hűséges, intenzív, szoros munkakapcsolatot alakít ki vele.",
+      "Kitartása miatt hosszú, fárasztó foglalkozásokat is végig bírja.",
+      "Éles figyelme miatt gyorsan észreveszi a környezet változásait.",
+      "Sportos, fürge mozgása látványossá teszi a bemutató feladatokat.",
+      "Intelligenciája miatt rövid idő alatt új parancsokat sajátít el.",
+      "Jól irányítható, tapasztalt kezelő mellett rendkívül megbízható társ.",
+      "Erős kötődése miatt megbízhatóan együttműködik ismert gazdájával.",
+      "Alacsony szőrhullás jellemzi, viszonylag könnyen tisztán tartható."
+    ],
+    "hatranyok": [
+      "Rendkívül magas energiaszintje miatt kezdő gazdának szinte kezelhetetlen.",
+      "Foglalkoztatás híján ideges, sőt destruktív viselkedést alakíthat ki.",
+      "Erős védelmező, territoriális ösztöne miatt alapos szocializációt igényel.",
+      "Hajlamos a csípőízületi dysplasiára és bizonyos szembetegségekre.",
+      "Idegenekkel és idegen kutyákkal szemben eleinte gyanakvó lehet.",
+      "Első kutyás gazdának egyáltalán nem ajánlott a magas igénybevétel miatt.",
+      "Egyedül hagyva szeparációs szorongást és hangos ugatást fejleszthet ki.",
+      "Kemény, következetlen kiképzés mellett agresszív reakciókat mutathat.",
+      "Napi több órás strukturált mozgást és feladatot igényel.",
+      "Kültéri, aktív, munkajellegű tartást igényel, lakáskutyaként nehezen boldogul."
+    ]
+  },
+  {
+    "nev": "Fehér svájci pásztorkutya",
+    "meret": "nagy",
+    "csoport": "Pásztorkutya",
+    "erossegek": [
+      "Barátságos, kiegyensúlyozott természete miatt jól alkalmazkodik terápiás munkához.",
+      "Németjuhászkutya-rokonságához képest lágyabb, közlékenyebb temperamentumú.",
+      "Gazdájához hűséges, szoros érzelmi kapcsolatot épít vele.",
+      "Intelligenciája miatt gyorsan megtanulja az új parancsokat és feladatokat.",
+      "Fehér szőrzete miatt jellegzetes, bizalomgerjesztő megjelenésű kutya.",
+      "Jól szocializálva türelmes, játékos gyerekekkel és idősekkel is.",
+      "Stabil idegzete miatt jól viseli a zajos, nyüzsgő környezetet.",
+      "Motiválható jutalomfalattal és dicsérettel, könnyen irányítható.",
+      "Idegenekkel barátságosan viselkedik, ritkán mutat félelemből eredő agressziót.",
+      "Erős, mégis gyengéd testfelépítése miatt biztonságos ölelni, simogatni."
+    ],
+    "hatranyok": [
+      "Hajlamos a csípő- és könyökízületi dysplasiára nagy testmérete miatt.",
+      "Sűrű szőrzete egész évben hullik, gyakori kefélést igényel.",
+      "Napi hosszabb mozgást és mentális foglalkoztatást igényel.",
+      "Első kutyás gazdának a mérete és energiaszintje kihívást jelenthet.",
+      "Egyedül hagyva szeparációs szorongást és ugatást fejleszthet ki.",
+      "Nagy testmérete miatt tartása és állatorvosi ellátása költséges.",
+      "Kevéssé ismert fajta, nehezebb megbízható tenyésztőt találni.",
+      "Fiatalon élénk, következetes szocializációt és nevelést igényel.",
+      "Epilepszia és bizonyos bélrendszeri problémák is előfordulnak a fajtában.",
+      "Kis lakásban, mozgás nélkül nehezen érzi jól magát."
+    ]
+  },
+  {
+    "nev": "Cane corso",
+    "meret": "nagy",
+    "csoport": "Testőrkutya",
+    "erossegek": [
+      "Nyugodt, magabiztos jelenléte biztonságérzetet ad tapasztalt gazdája mellett.",
+      "Erős védelmező ösztöne miatt megbízható társ ismerős környezetben.",
+      "Jól szocializálva kiegyensúlyozott, higgadt viselkedést mutat idegenekkel is.",
+      "Gazdájához rendkívül hűséges, szoros bizalmi kapcsolatot épít.",
+      "Intelligenciája miatt gyorsan megtanulja az alapengedelmességi parancsokat.",
+      "Nagy testfelépítése ellenére gyengéden viselkedik ismerős emberek közelében.",
+      "Rövid szőrzete miatt viszonylag könnyen tisztán tartható.",
+      "Kiegyensúlyozott felnőttként ritkán reagál túlzott izgalommal új helyzetekre.",
+      "Erős testfelépítése miatt magabiztosan mozog nagyobb tömegben is.",
+      "Éber, de nem feleslegesen hangos, csak indokolt esetben jelez."
+    ],
+    "hatranyok": [
+      "Rendkívül nagy testtömege miatt komoly szakértelmet igényel a kezelése.",
+      "Erős védelmező ösztöne miatt alapos, folyamatos szocializációt igényel.",
+      "Hajlamos a csípőízületi dysplasiára és szívbetegségekre.",
+      "Első kutyás gazdának egyáltalán nem ajánlott a mérete és ereje miatt.",
+      "Idegen kutyákkal szemben domináns, konfliktuskereső viselkedést mutathat.",
+      "Következetlen kiképzés mellett kezelhetetlenné, agresszívvá válhat.",
+      "Nagy testmérete miatt tartása, étkeztetése rendkívül költséges.",
+      "Fiatalon sok mozgást és határozott vezetést igényel.",
+      "Egyedül hagyva unatkozhat, és ezt rombolással jelezheti.",
+      "Nyáladzása és horkolása egyeseknek kellemetlen lehet zárt térben."
+    ]
+  },
+  {
+    "nev": "Rottweiler",
+    "meret": "nagy",
+    "csoport": "Testőrkutya",
+    "erossegek": [
+      "Jól szocializálva nyugodt, kiegyensúlyozott viselkedést mutat ismert környezetben.",
+      "Gazdájához rendkívül hűséges, erős bizalmi kapcsolatot épít vele.",
+      "Intelligenciája miatt gyorsan megtanulja az alapengedelmességi feladatokat.",
+      "Stabil idegzete miatt jól kezeli a váratlan, zajos helyzeteket.",
+      "Erős testfelépítése ellenére gyengéden viselkedik ismerős emberek közelében.",
+      "Motiválható jutalomfalattal és dicsérettel, könnyen irányítható tapasztalt kézben.",
+      "Éber, de fegyelmezett, csak indokolt esetben jelez hangosan.",
+      "Rövid szőrzete miatt viszonylag könnyen tisztán tartható.",
+      "Kitartása miatt hosszabb, összetett gyakorlatsorokat is végig tudja csinálni.",
+      "Türelmes, jól szocializálva megbízható társ gyerekek és idősek mellett."
+    ],
+    "hatranyok": [
+      "Nagy testtömege miatt komoly szakértelmet igényel a kezelése.",
+      "Hajlamos a csípőízületi dysplasiára és szívbetegségekre is.",
+      "Erős védelmező ösztöne miatt alapos, folyamatos szocializációt igényel.",
+      "Első kutyás gazdának egyáltalán nem ajánlott a mérete és ereje miatt.",
+      "Idegen kutyákkal szemben domináns viselkedést mutathat szoktatás nélkül.",
+      "Következetlen kiképzés mellett kezelhetetlenné, agresszívvá válhat.",
+      "Nagy testmérete miatt tartása, étkeztetése rendkívül költséges.",
+      "Fiatalon sok mozgást és határozott, türelmes vezetést igényel.",
+      "Egyedül hagyva unatkozhat, és ezt rombolással jelezheti.",
+      "Ízületi terhelés miatt túlsúly esetén gyorsan romlik a mozgása."
+    ]
+  },
+  {
+    "nev": "Dobermann",
+    "meret": "nagy",
+    "csoport": "Testőrkutya",
+    "erossegek": [
+      "Rendkívül intelligens, gyorsan megtanulja az összetett parancsokat is.",
+      "Gazdájához hűséges, szoros, munkajellegű kapcsolatot alakít ki vele.",
+      "Jól szocializálva kiegyensúlyozott, figyelmes viselkedést mutat idegenekkel is.",
+      "Sportos, elegáns mozgása látványossá teszi a bemutató feladatokat.",
+      "Erős védelmező ösztöne miatt biztonságérzetet ad a résztvevőknek.",
+      "Rövid szőrzete miatt könnyen tisztán tartható, ritkán szennyeződik.",
+      "Motiválható jutalomfalattal, könnyen bevonható közös feladatokba.",
+      "Éber, de fegyelmezett, csak indokolt esetben jelez hangosan.",
+      "Kitartása miatt hosszabb, összetett gyakorlatsorokat is végig tudja csinálni.",
+      "Erős kötődése miatt megbízhatóan együttműködik ismert gazdájával."
+    ],
+    "hatranyok": [
+      "Fokozottan hajlamos szívizom-betegségre (dilatatív cardiomyopathia).",
+      "Vékony szőrzete miatt hidegben, fűtetlen térben fázékony lehet.",
+      "Napi hosszabb mozgást és mentális foglalkoztatást igényel.",
+      "Első kutyás gazdának a mérete és erős ösztönei kihívást jelentenek.",
+      "Erős védelmező ösztöne miatt alapos, folyamatos szocializációt igényel.",
+      "Egyedül hagyva szeparációs szorongást és destruktív viselkedést fejleszthet ki.",
+      "Következetlen kiképzés mellett gyanakvó, feszült viselkedést mutathat.",
+      "Nagy testmérete miatt tartása és állatorvosi ellátása költséges.",
+      "Von Willebrand-betegségre, egy véralvadási zavarra is hajlamos lehet.",
+      "Erős territoriális ösztöne miatt más kutyákkal konfliktusba kerülhet."
+    ]
+  },
+  {
+    "nev": "Boxer",
+    "meret": "nagy",
+    "csoport": "Munkakutya",
+    "erossegek": [
+      "Játékos, vidám természete jó hangulatot hoz a terápiás foglalkozásokra.",
+      "Gyerekekkel türelmes, energikus, szeretetteljes viselkedést mutat.",
+      "Gazdájához hűséges, szoros érzelmi kapcsolatot épít vele.",
+      "Rövid szőrzete miatt könnyen tisztán tartható, ritkán szennyeződik.",
+      "Kíváncsi, barátságos idegenekkel is, ritkán mutat félelmet.",
+      "Sportos, kitartó alkata miatt aktív foglalkozásokat is jól bír.",
+      "Motiválható jutalomjátékkal, könnyen bevonható közös feladatokba.",
+      "Kifejező arcjátéka és testbeszéde könnyen érthetővé teszi hangulatát.",
+      "Éber, de nem agresszív, inkább figyelmes idegenekkel szemben.",
+      "Erős, mégis vidám jelenléte felszabadult légkört teremt."
+    ],
+    "hatranyok": [
+      "Fokozottan hajlamos szívbetegségekre és bizonyos daganatos elváltozásokra.",
+      "Rövid orra miatt hőségben és erős terhelés alatt nehezebben lélegzik.",
+      "Napi hosszabb mozgást és mentális foglalkoztatást igényel.",
+      "Fiatalon rendkívül élénk, türelmes, következetes nevelést igényel.",
+      "Első kutyás gazdának a magas energiaszint kihívást jelenthet.",
+      "Egyedül hagyva unatkozhat, és ezt rágcsálással vagy ugatással jelezheti.",
+      "Nyáladzása egyeseknek kellemetlen lehet zárt térben.",
+      "Hidegben és nagy hőségben egyaránt érzékenyebb a rövid szőrzete miatt.",
+      "Nagy testmérete miatt tartása és állatorvosi ellátása költséges.",
+      "Csípőízületi dysplasiára és gerincproblémákra is hajlamos lehet."
+    ]
+  },
+  {
+    "nev": "Bernáthegyi",
+    "meret": "nagy",
+    "csoport": "Munkakutya",
+    "erossegek": [
+      "Nyugodt, türelmes természete miatt kiválóan alkalmas idősek és gyerekek mellé.",
+      "Hatalmas, mégis gyengéd jelenléte megnyugtató érzést ad a résztvevőknek.",
+      "Gazdájához hűséges, kiegyensúlyozott, megbízható kapcsolatot épít.",
+      "Jól szocializálva türelmesen tűri az idegen kezek érintését.",
+      "Ritkán mutat agressziót, még stresszes helyzetekben is türelmes marad.",
+      "Nagy mérete miatt biztonságosan megtámasztható, kényelmesen simogatható.",
+      "Kiegyensúlyozott felnőttként ritkán reagál túlzott izgalommal új helyzetekre.",
+      "Éber, de nem feleslegesen hangos, csak indokolt esetben jelez.",
+      "Alacsony agresszióküszöbe miatt jól tűri a zsúfolt, zajos környezetet.",
+      "Erős testfelépítése ellenére gyengéden viselkedik ismerős emberek közelében."
+    ],
+    "hatranyok": [
+      "Hatalmas termete miatt kis lakásban nehezen mozog kényelmesen.",
+      "Fokozottan hajlamos a csípő- és könyökízületi dysplasiára.",
+      "Rövid élettartamú fajta, gyakran csak 8-10 évig él.",
+      "Nagy testmérete miatt tartása, étkeztetése rendkívül költséges.",
+      "Sűrű szőrzete rendszeres kefélést igényel, különösen szőrváltáskor.",
+      "Nyáladzása jelentős, ami gyakori törlést tesz szükségessé.",
+      "Hőségben nehezen viseli a megterhelést nagy testtömege miatt.",
+      "Első kutyás gazdának komoly kihívást jelent a mérete és súlya.",
+      "Fiatalon sok, de kíméletes mozgást igényel a csontozat védelméért.",
+      "Szívbetegségekre és gyomorforgásra is fokozottan hajlamos nagy mérete miatt."
+    ]
+  },
+  {
+    "nev": "Newfoundlandi kutya",
+    "meret": "nagy",
+    "csoport": "Vízikutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Nagy svájci hegyikutya",
+    "meret": "nagy",
+    "csoport": "Munkakutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Leonbergi",
+    "meret": "nagy",
+    "csoport": "Munkakutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Óriás schnauzer",
+    "meret": "nagy",
+    "csoport": "Munkakutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Középső schnauzer",
+    "meret": "kozepes",
+    "csoport": "Munkakutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Törpeschnauzer",
+    "meret": "kicsi",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Airedale terrier",
+    "meret": "kozepes",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Ír szetter",
+    "meret": "nagy",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Angol szetter",
+    "meret": "nagy",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Gordon szetter",
+    "meret": "nagy",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Pointer",
+    "meret": "nagy",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Német drótszőrű vizsla",
+    "meret": "kozepes",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Weimari vizsla",
+    "meret": "nagy",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Breton spániel",
+    "meret": "kozepes",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Cocker spániel",
+    "meret": "kicsi",
+    "csoport": "Spániel",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Springer spániel",
+    "meret": "kozepes",
+    "csoport": "Spániel",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Cavalier king charles spániel",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "King charles spániel",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Beagle",
+    "meret": "kozepes",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Basset hound",
+    "meret": "kozepes",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Foxhound",
+    "meret": "nagy",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Dalmata",
+    "meret": "nagy",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Jack russell terrier",
+    "meret": "kicsi",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Parson russell terrier",
+    "meret": "kicsi",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Drótszőrű foxterrier",
+    "meret": "kicsi",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Simaszőrű foxterrier",
+    "meret": "kicsi",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Yorkshire terrier",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "West highland white terrier",
+    "meret": "kicsi",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Skót terrier",
+    "meret": "kicsi",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Cairn terrier",
+    "meret": "kicsi",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Boston terrier",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Bullterrier",
+    "meret": "kozepes",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Staffordshire bullterrier",
+    "meret": "kozepes",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Amerikai staffordshire terrier",
+    "meret": "kozepes",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Ír terrier",
+    "meret": "kozepes",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Border terrier",
+    "meret": "kicsi",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Bichon frisé",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Máltai selyemkutya",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Havanese",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Törpepudli",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Nagypudli",
+    "meret": "nagy",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Lagotto romagnolo",
+    "meret": "kozepes",
+    "csoport": "Vízikutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Shih tzu",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Lhasa apso",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Tibeti spániel",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Pekingi palotakutya",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Mopsz",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Francia bulldog",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Angol bulldog",
+    "meret": "kozepes",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Basenji",
+    "meret": "kicsi",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Sharpei",
+    "meret": "kozepes",
+    "csoport": "Testőrkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Chow chow",
+    "meret": "kozepes",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Akita inu",
+    "meret": "nagy",
+    "csoport": "Testőrkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Shiba inu",
+    "meret": "kicsi",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Sziberiai husky",
+    "meret": "kozepes",
+    "csoport": "Szánhúzó kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Alaszkai malamut",
+    "meret": "nagy",
+    "csoport": "Szánhúzó kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Szamojéd",
+    "meret": "kozepes",
+    "csoport": "Szánhúzó kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Grönlandi kutya",
+    "meret": "nagy",
+    "csoport": "Szánhúzó kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Ír farkaskutya",
+    "meret": "nagy",
+    "csoport": "Agár",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Skót szarvasagár",
+    "meret": "nagy",
+    "csoport": "Agár",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Angol agár",
+    "meret": "nagy",
+    "csoport": "Agár",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Afgán agár",
+    "meret": "nagy",
+    "csoport": "Agár",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Whippet",
+    "meret": "kozepes",
+    "csoport": "Agár",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Spanyol agár",
+    "meret": "nagy",
+    "csoport": "Agár",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Olasz agár",
+    "meret": "kicsi",
+    "csoport": "Agár",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Magyar agár",
+    "meret": "nagy",
+    "csoport": "Agár",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Rodéziai ridgeback",
+    "meret": "nagy",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Bloodhound",
+    "meret": "nagy",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Basset artésien normand",
+    "meret": "kozepes",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Beagle harrier",
+    "meret": "kozepes",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Törpetacskó",
+    "meret": "kicsi",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Normál tacskó",
+    "meret": "kicsi",
+    "csoport": "Vadászkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Chihuahua",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Pomerániai törpespicc",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Keeshond",
+    "meret": "kozepes",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Walesi corgi pembroke",
+    "meret": "kicsi",
+    "csoport": "Pásztorkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Walesi corgi cardigan",
+    "meret": "kicsi",
+    "csoport": "Pásztorkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Ausztrál cattle dog",
+    "meret": "kozepes",
+    "csoport": "Pásztorkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Ausztrál kelpie",
+    "meret": "kozepes",
+    "csoport": "Pásztorkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Angol ószövegű juhászkutya (bobtail)",
+    "meret": "nagy",
+    "csoport": "Pásztorkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Shetlandi juhászkutya",
+    "meret": "kicsi",
+    "csoport": "Pásztorkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Skót juhászkutya (collie)",
+    "meret": "nagy",
+    "csoport": "Pásztorkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Beauceron",
+    "meret": "nagy",
+    "csoport": "Pásztorkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Briard",
+    "meret": "nagy",
+    "csoport": "Pásztorkutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Entlebuchi pásztorkutya",
+    "meret": "kozepes",
+    "csoport": "Munkakutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Appenzelli pásztorkutya",
+    "meret": "kozepes",
+    "csoport": "Munkakutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Portugál vízikutya",
+    "meret": "kozepes",
+    "csoport": "Vízikutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Spanyol vízikutya",
+    "meret": "kozepes",
+    "csoport": "Vízikutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Göndörszőrű retriever",
+    "meret": "nagy",
+    "csoport": "Retriever",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Egyenesszőrű retriever",
+    "meret": "nagy",
+    "csoport": "Retriever",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Nova Scotia Duck Tolling Retriever",
+    "meret": "kozepes",
+    "csoport": "Retriever",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Toy foxterrier",
+    "meret": "kicsi",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Manchester terrier",
+    "meret": "kicsi",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Bedlington terrier",
+    "meret": "kicsi",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Skye terrier",
+    "meret": "kicsi",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Norfolk terrier",
+    "meret": "kicsi",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Norwich terrier",
+    "meret": "kicsi",
+    "csoport": "Terrier",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Ausztrál silky terrier",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Kínai meztelen kutya",
+    "meret": "kicsi",
+    "csoport": "Társasági kutya",
+    "erossegek": [],
+    "hatranyok": []
+  },
+  {
+    "nev": "Amerikai akita",
+    "meret": "nagy",
+    "csoport": "Testőrkutya",
+    "erossegek": [],
+    "hatranyok": []
+  }
+]
