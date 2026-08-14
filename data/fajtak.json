@@ -1163,71 +1163,291 @@
     "nev": "Foxhound",
     "meret": "nagy",
     "csoport": "Vadászkutya",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Falkakutyaként remekül tűri más kutyák és emberek társaságát egyaránt.",
+      "Kitartó, energikus alkata miatt hosszú sétákat is fáradtság nélkül bír.",
+      "Barátságos, nyílt temperamentuma miatt idegenekkel is könnyen barátkozik.",
+      "Erős szaglása miatt izgalmas kereső gyakorlatokra tanítható.",
+      "Rendíthetetlen jókedve felszabadult hangulatot hoz egy csoportba.",
+      "Gyerekekkel türelmesen viselkedik, ritkán mutat ingerültséget.",
+      "Fizikai állóképessége miatt hosszabb, mozgásos programokat is elbír.",
+      "Motiválható közös futással vagy sétával, ez erősíti a kötődést.",
+      "Nyugodt pillanataiban szívesen pihen le a résztvevők mellé.",
+      "Robusztus testfelépítése biztonságérzetet ad a hozzáérintéskor."
+    ],
+    "hatranyok": [
+      "Rendkívül magas mozgásigénye van, hosszú futtatás nélkül nyugtalan.",
+      "Vadászösztöne miatt szagnyomot követve nehezen vonható el a figyelme.",
+      "Falkakutya-múltja miatt egyedül tartva rosszul viseli a magányt.",
+      "Hangos, mély csaholása zavaró lehet zárt, csendes térben.",
+      "Csípőízületi problémákra és fülfertőzésekre egyaránt hajlamos.",
+      "Kezdő gazdának a vadászösztön kezelése komoly kihívást jelenthet.",
+      "Angliában hagyományosan falkában, kennelben tartott fajta, magányos lakáskutyának szokatlan.",
+      "Idegen kisállatokat üldözőbe vehet erős zsákmányszerző ösztöne miatt.",
+      "Ritkán tartják egyedüli háziállatként, társ nélkül unatkozhat.",
+      "Makacs pillanataiban kitartó, türelmes vezetést igényel."
+    ]
   },
   {
     "nev": "Dalmata",
     "meret": "nagy",
     "csoport": "Társasági kutya",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Jellegzetes, pettyes szőrzete azonnal felkelti a résztvevők figyelmét.",
+      "Energikus, vidám természete jó hangulatot hoz a foglalkozásokra.",
+      "Gazdájához hűséges, szoros érzelmi kapcsolatot alakít ki vele.",
+      "Egykor hintók mellett futó fajta, kiemelkedő az állóképessége.",
+      "Alapos szocializáció után idegenekkel is barátságosan viselkedik.",
+      "Gyerekekkel energikusan, mégis figyelmesen játszik.",
+      "Rövid szőrzete miatt viszonylag könnyen tisztán tartható.",
+      "Kitartó, hosszú távú futásra alkalmas alkata miatt aktív foglalkozásokhoz illik.",
+      "Egy pörgő labdával azonnal bevonható egy közös gyakorlatba.",
+      "Intelligenciája miatt gyorsan megjegyzi az új parancsokat."
+    ],
+    "hatranyok": [
+      "Fokozottan hajlamos a húgysavkő-képződésre, speciális étrendet igényelhet.",
+      "Néhány egyednél veleszületett halláskárosodás is előfordulhat.",
+      "Napi hosszabb sétát és futtatást igényel, különben nyugtalanná válik.",
+      "Kölyökkorban szertelen, kitartó és türelmes idomítást kíván.",
+      "Tapasztalatlan gazdának nehézséget okozhat a szinte kimeríthetetlen energia.",
+      "Egyedül hagyva unalmában bútorokat vagy cipőket rágcsálhat.",
+      "Bizonyos vonalaknál idegesebb, ingerlékenyebb temperamentum fordulhat elő.",
+      "Vékony bundája miatt téli sétákhoz gyakran kabátra van szüksége.",
+      "Erőteljes, néha türelmetlen játékmódja miatt kisgyerekekkel felügyelet szükséges.",
+      "Bőrallergiákra és ízületi problémákra egyaránt hajlamos lehet."
+    ]
   },
   {
     "nev": "Jack russell terrier",
     "meret": "kicsi",
     "csoport": "Terrier",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Apró testében hatalmas energia és lelkesedés lakozik munka közben.",
+      "Néhány ismétlés után már önállóan felismeri a tanult jelzéseket.",
+      "Bátorsága miatt a nála jóval nagyobb kutyák társaságában is magabiztos.",
+      "Egy hátizsákban vagy kosárban is könnyedén szállítható egy látogatásra.",
+      "Gazdájával kialakított kötődése szinte játékos versengésben nyilvánul meg.",
+      "Egy fültől-fülig érő labdajátékkal azonnal bevonható egy gyakorlatba.",
+      "Egy hosszabb akadálypályát is lendülettel, kitartóan végigfut.",
+      "Alapos szoktatás után a kíváncsisága legyőzi az idegenekkel szembeni óvatosságát.",
+      "Ugrásai és fordulatai miatt látványos bemutató trükköket lehet vele tanítani.",
+      "Sima szőrét elég hetente egyszer-kétszer átkefélni."
+    ],
+    "hatranyok": [
+      "Alvás közbeni pihenőn kívül szinte mindig tevékenységre vágyik.",
+      "Egy elszaladó mókus vagy macska láttán azonnal üldözőbe veheti azt.",
+      "Unalmában a kertben méteres gödröket áshat pár óra alatt.",
+      "Térdkalács-elmozdulásra és bizonyos szemrendellenességekre hajlamos.",
+      "Egy tapasztalatlan gazda könnyen alulmarad a napi energiaigénnyel szemben.",
+      "Egy nála nagyobb kan kutyát is hajlandó kihívni versengés közben.",
+      "Türelmetlenségében éles, magas hangú ugatással hívja fel magára a figyelmet.",
+      "Egy óvatlan lépés vagy leejtés komoly sérülést okozhat apró testén.",
+      "Dacos periódusaiban csak határozott, kitartó vezetéssel kezelhető.",
+      "Egy méteres kerítésen is átugorhat, ha elég motivált rá."
+    ]
   },
   {
     "nev": "Parson russell terrier",
     "meret": "kicsi",
     "csoport": "Terrier",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Hosszabb lábai miatt gyorsabb és fürgébb, mint a Jack russell rokona.",
+      "Egy komplex ügyességi pályát is örömmel, kitartóan teljesít végig.",
+      "Idegen helyszíneken is talpraesetten, magabiztosan tájékozódik.",
+      "Gazdájával közös munka közben szoros figyelmi kapcsolatot tart fenn.",
+      "Egy kisebb táskában is könnyedén elfér egy rövidebb útra.",
+      "Egy ismeretlen látogatót eleinte kíváncsian, majd barátságosan fogad.",
+      "Egy elrejtett jutalomfalatot türelmesen és kitartóan felkutat.",
+      "Sima szőrét elég hetente néhányszor átfésülni.",
+      "Egy hosszabb feladatsor végére sem veszíti el a koncentrációját.",
+      "Talpraesettsége miatt váratlan helyzetekben is gyorsan alkalmazkodik."
+    ],
+    "hatranyok": [
+      "Egy elszabaduló nyúl vagy mókus látványa azonnal elvonja a figyelmét.",
+      "Napi több órás mozgás és feladat nélkül ideges, nyűgös lesz.",
+      "Unalmában a kerti bokrok tövét is képes kiásni.",
+      "Csípőficamra és térdkalács-elmozdulásra egyaránt hajlamos lehet.",
+      "Egy másik hím kutyával szemben könnyen versengő helyzetbe kerül.",
+      "Egy kezdő gazda nehezen tartja lépést az önálló, erős akaratával.",
+      "Frusztrációban éles, sűrű ugatással jelez a környezetének.",
+      "Egy leejtés vagy erős fogás komoly sérülést okozhat apró testén.",
+      "Csak határozott, következetes vezetés mellett marad kezelhető.",
+      "Egy alacsonyabb kerítést is könnyedén átugrik, ha motivált rá."
+    ]
   },
   {
     "nev": "Drótszőrű foxterrier",
     "meret": "kicsi",
     "csoport": "Terrier",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Drótos szőrzete alatt fegyelmezett, mégis játékos jellem rejtőzik.",
+      "Egy komplex gyakorlatsort is örömmel, kitartóan végigcsinál.",
+      "Idegen emberekkel találkozva előbb megszaglássza, majd barátkozni kezd.",
+      "Gazdájával közös munkára rendkívül motiváltan áll rá.",
+      "Bajusza és szemöldöke jellegzetes, humoros arckifejezést kölcsönöz neki.",
+      "Alig hullatja a szőrét, ami könnyebbség az érzékenyebb résztvevőknek.",
+      "Egy kosárban vagy hátizsákban is könnyen szállítható egy rövidebb útra.",
+      "Egy elrejtett tárgyat kitartóan, lelkesen felkutat egy keresőjátékban.",
+      "Bátorsága miatt nála nagyobb kutyák mellett is magabiztos marad.",
+      "Egy jó hangulatú csoportban gyorsan felveszi mások lendületét."
+    ],
+    "hatranyok": [
+      "Drótszőrét évi néhány alkalommal kézzel kell tépkedni vagy szakszerűen nyírni.",
+      "Egy kisebb rágcsálót megpillantva azonnal üldözőbe veheti.",
+      "Napi hosszabb mozgás híján türelmetlenné, nyugtalanná válik.",
+      "Csípőficamra és bizonyos szemhomályosodásra egyaránt hajlamos.",
+      "Egy másik kan kutyával szemben könnyen versengő helyzetbe kerülhet.",
+      "Frusztrációban éles, ismétlődő ugatással hívja fel magára a figyelmet.",
+      "Unalmában a kerti bokrok gyökereit is kiáshatja.",
+      "Egy kezdő gazda nehezen tartja kordában az önálló akaratát.",
+      "Csak határozott, kitartó vezetés mellett marad kezelhető felnőttként.",
+      "Szőrápolása szakemberrel hosszú távon számottevő kiadás."
+    ]
   },
   {
     "nev": "Simaszőrű foxterrier",
     "meret": "kicsi",
     "csoport": "Terrier",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Fényes, sima szőrén jól látszik minden izma munka közben.",
+      "Egy rövid parancssorozatot már egyetlen délután alatt megjegyez.",
+      "Vidám csaholással köszönti az ismerős arcokat egy teremben.",
+      "Kompakt, izmos testalkata miatt gyorsan felpattan egy akadály tetejére.",
+      "Nyugodtabb pillanataiban szívesen dől oda egy ölbe pihenésre.",
+      "Egy zajos, nyüzsgő csoportban is gyorsan feltalálja magát.",
+      "Fényes bundáját elég ritkán, kímélő sampon nélkül is tisztán tartani.",
+      "Idegen gyerekek közelségét is nyitottan, kíváncsian fogadja.",
+      "Egy szórakoztató trükksorral könnyen elbűvöli a nézőket.",
+      "Talpraesett, gyors reakciói miatt váratlan helyzetekben is ügyesen forog."
+    ],
+    "hatranyok": [
+      "Egy futó macskát vagy nyulat látva azonnal utána ered.",
+      "Ha nem kap elég ingert, tárgyakat kezd el rágcsálni otthon.",
+      "Csípőficamra és szívzörejre is hajlamos lehet néhány egyednél.",
+      "Egy másik terrierrel szemben könnyen versenyhelyzetbe kerül.",
+      "Izgatottságában rövid, sorozatos vakkantásokkal fejezi ki magát.",
+      "Mozgás híján ideges köröket ró a lakásban.",
+      "Egy tapasztalatlan gazdának nehéz betartatni vele a szabályokat.",
+      "Erőteljes ugrásaival könnyen átjut egy alacsonyabb kerítésen.",
+      "Kerti ágyásokban is szívesen keres el nem ásott kincseket.",
+      "Egyedül hagyva hosszasan vinnyoghat, amíg vissza nem tér a gazdája."
+    ]
   },
   {
     "nev": "Yorkshire terrier",
     "meret": "kicsi",
     "csoport": "Társasági kutya",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Egy kistáskában is elfér, így könnyedén magával vihető bárhová.",
+      "Hosszú, acélkék-arany szőrzete sok látogatónak kifejezetten látványos.",
+      "Apró teste ellenére bátran, öntudatosan lép fel idegen helyzetekben is.",
+      "Egy rövid ismerkedés után is gyorsan megbízik az új emberekben.",
+      "Ölben ülve hosszabb ideig is nyugodtan, elégedetten pihen.",
+      "Egy apró falatkával szinte azonnal ráállítható egy rövid gyakorlatra.",
+      "Alapos szoktatás után a gyerekek közelségét is nyugodtan fogadja.",
+      "Kis mérete miatt egy szűkebb kórteremben vagy irodában is kényelmesen elfér.",
+      "Vidám csaholása és fürgesége derűs hangulatot hoz egy csoportba.",
+      "Halk, visszafogott jelenléte nem terheli meg a zajérzékeny résztvevőket."
+    ],
+    "hatranyok": [
+      "Hosszú szőrzete naponta fésülést, időnként profi nyírást is igényel.",
+      "Apró csontozata miatt egy hirtelen mozdulat is sérülést okozhat.",
+      "Fogazati problémákra és térdkalács-elmozdulásra egyaránt hajlamos.",
+      "Idegen zajra gyakran magas hangú, éles ugatással reagál.",
+      "Ragaszkodása miatt hosszabb magányt nehezen visel el nyugodtan.",
+      "Egy kezdő gazdának nehézséget okozhat a törékenységéből fakadó óvatosság.",
+      "Légcsőösszeeséstől is szenvedhet, ez időszakos köhögésben nyilvánul meg.",
+      "Apró mérete és vékony szőrzete miatt hidegben gyorsan lehűl.",
+      "Öntörvényű pillanataiban is türelmes, következetes vezetést igényel.",
+      "Méretéből adódóan semmilyen őrző szerepre nem alkalmas."
+    ]
   },
   {
     "nev": "West highland white terrier",
     "meret": "kicsi",
     "csoport": "Terrier",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Fehér, drótos szőrzete és fekete szeme azonnal megkülönbözteti a csoportban.",
+      "Barátságos, magabiztos fellépése miatt gyorsan otthon érzi magát új helyeken.",
+      "Egy kutyahordozóban vagy ölben is nyugodtan utazik egy látogatásra.",
+      "Gazdájával kialakított kötődése kölyökkortól kezdve fokozatosan mélyül.",
+      "Egy pörgő játékkal szinte azonnal bevonható egy közös gyakorlatba.",
+      "Alapos szoktatás után a gyerekek közelségét is türelmesen fogadja.",
+      "Egy ismeretlen látogatót kíváncsian, farokcsóválva köszönt.",
+      "Vidám, magabiztos testtartása jó hangulatot hoz a foglalkozásokra.",
+      "Egy hosszabb ügyességi pályát is kitartóan, örömmel végigcsinál.",
+      "Kemény, vízlepergető szőrzete viszonylag ritkán szennyeződik be."
+    ],
+    "hatranyok": [
+      "Drótos szőrzetét évi néhány alkalommal kézzel kell igazítani vagy nyírni.",
+      "Erős ásási hajlama miatt egy gondozatlan kertben komoly kárt tehet.",
+      "Bőrallergiákra és bizonyos májbetegségekre (rézfelhalmozódás) is hajlamos.",
+      "Egy kezdő gazdának nehézséget okozhat az önálló, makacs jelleme.",
+      "Egy másik kutyával szemben könnyen versengő helyzetbe kerülhet.",
+      "Türelmetlenségében éles, ismétlődő ugatással hívja fel magára a figyelmet.",
+      "Unalmában a bútorok sarkát vagy a cipőket is megrágcsálhatja.",
+      "Felnőttkorára is megőrzi az önfejűségét, ha engedékenyen nevelik.",
+      "Kéthavonta esedékes szőrnyírása visszatérő tétel a családi költségvetésben.",
+      "Kis termete ellenére kisebb rágcsálókat üldözőbe vehet."
+    ]
   },
   {
     "nev": "Skót terrier",
     "meret": "kicsi",
     "csoport": "Terrier",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Sötét, méltóságteljes sziluettje azonnal felismerhetővé teszi egy csoportban.",
+      "Gazdájához fűződő kötődése rendkívül mély és tartós.",
+      "Egy kosárban vagy ölben nyugodtan üldögél egy hosszabb látogatáson is.",
+      "Egy apró jutalomfalattal könnyen ráállítható egy rövid gyakorlatra.",
+      "Kemény, drótos szőrzete viszonylag ritkán szennyeződik be.",
+      "Bátor, öntudatos testtartása biztonságérzetet ad kis mérete ellenére.",
+      "Alapos szoktatás után nyugodtan fogadja az ismeretlen látogatókat is.",
+      "Csendes, visszafogott jelenléte nem terheli meg a zajérzékeny résztvevőket.",
+      "Egy hosszabb foglalkozás alatt is türelmesen a helyén marad.",
+      "Egyedi megjelenése gyakran beszédtéma lesz egy csoportban."
+    ],
+    "hatranyok": [
+      "Drótos szőrzetét évi néhányszor szakszerűen kell nyírni vagy igazítani.",
+      "Önálló, makacs jelleme miatt következetes, türelmes nevelést igényel.",
+      "Fokozottan hajlamos bizonyos rákos megbetegedésekre, köztük hólyagrákra.",
+      "Egy másik kutyával szemben harciasan, versengve léphet fel.",
+      "Egy kezdő gazdának nehézséget okozhat az erős akarata és önállósága.",
+      "Ásás közben egy gondozatlan kertben komoly kárt tehet.",
+      "Foglalkoztatás híján zárkózottá vagy ingerlékennyé válhat.",
+      "Kis termete ellenére kisebb rágcsálókat is üldözőbe vehet.",
+      "Rendszeres kutyaszalonos igazítása hosszú távon komoly kiadás.",
+      "Idegenekkel szemben kezdetben tartózkodó, gyanakvó lehet."
+    ]
   },
   {
     "nev": "Cairn terrier",
     "meret": "kicsi",
     "csoport": "Terrier",
-    "erossegek": [],
-    "hatranyok": []
+    "erossegek": [
+      "Borzas, természetes szőrzete miatt könnyen felismerhető egy csoportban.",
+      "Kíváncsi tekintete és mozgékonysága gyorsan magára vonja a figyelmet.",
+      "Egy rövidebb út alatt is nyugodtan üldögél egy táskában vagy ölben.",
+      "Fokozatosan, de tartósan kötődik ahhoz, aki rendszeresen foglalkozik vele.",
+      "Egy pattogó labdával azonnal aktivizálható egy közös gyakorlatra.",
+      "Barátságos, közvetlen modora miatt gyorsan barátkozik idegenekkel.",
+      "Vidám ugrándozása jókedvet visz egy csendesebb terembe is.",
+      "Apró termete ellenére bátran közelít nagyobb kutyák felé is.",
+      "Egy hosszabb keresőjátékot is kitartóan, örömmel végigcsinál.",
+      "Rugalmassága miatt könnyen alkalmazkodik változó napirendhez is."
+    ],
+    "hatranyok": [
+      "Egy elszaladó egeret vagy mókust azonnal üldözőbe vesz.",
+      "Önfejű pillanataiban nehezen tereli el a figyelmét bármi más.",
+      "Egy másik kutyával versengve könnyen konfliktusba keveredik.",
+      "Izgatott állapotban rövid, ismétlődő vakkantásokkal jelez.",
+      "Kertben szívesen ás lyukakat, ha felfedezni valót szimatol.",
+      "Szemhomályosodásra és térdkalács-elmozdulásra egyaránt hajlamos.",
+      "Egy hirtelen mozdulat vagy leejtés könnyen sérülést okozhat rajta.",
+      "Csak kitartó, türelmes vezetéssel marad kezelhető felnőttkorban is.",
+      "Kertészkedő gazdáknak oda kell figyelniük a felásott ágyásokra.",
+      "Természetes szőrzetét időről időre kézzel kell igazítani."
+    ]
   },
   {
     "nev": "Boston terrier",
