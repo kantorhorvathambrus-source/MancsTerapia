@@ -1,4 +1,4 @@
-// Tappancs Terápia — közös viselkedés (menü, kapcsolatűrlap)
+// Szívhíd terápia — közös viselkedés (menü, kapcsolatűrlap)
 
 document.addEventListener("DOMContentLoaded", function () {
   var menuGomb = document.getElementById("menu-gomb");

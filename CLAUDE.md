@@ -1,4 +1,4 @@
-# Tappancs Terápia — projekt jegyzetek
+# Szívhíd terápia — projekt jegyzetek
 
 Statikus weboldal: sima HTML + CSS + vanilla JS. Nincs build lépés, nincs
 npm, nincs keretrendszer. Bármilyen statikus fájlszerverrel kiszolgálható.
@@ -82,10 +82,19 @@ Betűtípusok (Google Fontsról, `<link>` tag, nincs helyi másolat):
   (lásd a `Counter`-alapú duplikátumkeresést a git történetben).
 - Nincs gyógyhatású ígéret ("garantáltan csökkenti", "gyógyítja"), a hangnem
   óvatos: megelőzés, jóllét, feszültségoldás.
-- Nincs stockfotó / harmadik féltől származó kép. Képek csak az
-  `assets/kep/` mappában, a hero fotó `hero-kutyak.jpg` névvel — amíg nincs
-  feltöltve, a hero szekció pasztell placeholdert mutat (lásd
-  `index.html` `.hero-kep-placeholder`, JS `onerror` kezeli az eltüntetést).
+- Nincs stockfotó / harmadik féltől származó kép. Csak a tulajdonos által
+  biztosított, saját képek kerülhetnek be. Képek helye és névkonvenciója az
+  `assets/kep/` mappában:
+  - `logo.png` — a "Szívhíd" felirat logó a fejlécben (`.logo-kep`). Ha
+    hiányzik, a JS `onerror` eltünteti a képet, és a `.logo-nev` span
+    (elrejtve `display:none`-nal) megjelenik helyette, így a fejléc "Szívhíd
+    terápia" szöveggé esik vissza.
+  - `hero-kutyak.jpg` — a főoldal hero szekciójának fotója. Amíg nincs
+    feltöltve, pasztell placeholder látszik (`index.html`
+    `.hero-kep-placeholder`, JS `onerror` kezeli az eltüntetést).
+  - `rolunk-kislany-kutya.jpg` — a Rólunk szekció illusztrációja. Ugyanaz az
+    onerror-alapú placeholder-minta, mint a hero képnél
+    (`.rolunk-kep-placeholder`).
 
 ## Technikai elvárások
 

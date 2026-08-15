@@ -1,4 +1,4 @@
-/* Tappancs Terápia — közös stíluslap */
+/* Szívhíd terápia — közös stíluslap */
 
 :root {
   --rozsaszin: #F97BA6;
@@ -193,10 +193,18 @@ img {
   text-decoration: none;
 }
 
-.logo-mancs {
-  width: 2.2rem;
-  height: 2.2rem;
+.logo-kep {
+  height: 2.6rem;
+  width: auto;
   flex-shrink: 0;
+}
+
+.logo-nev {
+  display: none;
+}
+
+.logo--kep-hianyzik .logo-nev {
+  display: inline;
 }
 
 .navigacio {
@@ -416,15 +424,29 @@ img {
 }
 
 .rolunk-kep {
+  position: relative;
   aspect-ratio: 1;
   border-radius: var(--sugar-kartya);
   background: linear-gradient(135deg, var(--sarga-halvany), var(--rozsaszin-halvany));
   display: flex;
   align-items: center;
   justify-content: center;
+  overflow: hidden;
+}
+
+.rolunk-kep img {
+  width: 78%;
+  height: 78%;
+  object-fit: contain;
+}
+
+.rolunk-kep-placeholder {
   color: var(--szoveg-halvany);
   font-family: var(--betu-cim);
   font-size: 1.3rem;
+  text-align: center;
+  padding: 2rem;
+  margin: 0;
 }
 
 /* Kapcsolat */

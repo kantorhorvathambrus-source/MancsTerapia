@@ -1,4 +1,4 @@
-// Tappancs Terápia — fajták oldal: adatbetöltés, keresés, méretszűrés
+// Szívhíd terápia — fajták oldal: adatbetöltés, keresés, méretszűrés
 
 document.addEventListener("DOMContentLoaded", function () {
   var racs = document.getElementById("fajta-racs");
