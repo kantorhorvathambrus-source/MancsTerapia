@@ -18,9 +18,19 @@ data/fajtak.js           Generált fájl — ugyanaz az adat, mint fajtak.json, 
                           helyi fájlokon (file://, pl. letöltött ZIP-ből megnyitva)
                           böngészőben CORS-hiba miatt nem működik — script tag igen.
 assets/kep/               Képek helye (hero-kutyak.jpg ide kerül, ha lesz fotó)
+assets/kep/fajtak/         Fajtakártya-fényképek, fájlnév = a fajta nevének
+                            ékezet nélküli, kisbetűs, kötőjeles változata
+                            (pl. `magyar-vizsla.png`). Csak azoknál a
+                            fajtáknál van kép, amelyeknél a `KEPEK` szótárban
+                            (`scripts/fajtak_kepek.py`) szerepel bejegyzés —
+                            3 fajtánál (Chow chow, Nagypudli, Pekingi
+                            palotakutya) szándékosan nincs kép, mert a
+                            forráskép náluk rossz/másik fajtát mutatott.
 scripts/fajtak_epit.py      ALAPADATOK (120 fajta neve/mérete/csoportja) + generátor
-                             (fajtak.json ÉS fajtak.js)
+                             (fajtak.json ÉS fajtak.js), a KEPEK szótárból tölti a "kep" mezőt
 scripts/fajtak_adatok.py     SZOVEGEK szótár: minden fajtához 10 erősség + 10 hátrány
+scripts/fajtak_kepek.py       KEPEK szótár: fajta név -> assets/kep/fajtak/ fájlnév
+                               (csak azoknál a fajtáknál, ahol van beazonosított kép)
 scripts/ellenoriz.py          Ellenőrző szkript: minden fajtánál megvan-e a 10+10
 ```
 
@@ -32,6 +42,16 @@ Fajtaszöveg módosításakor mindig ezt a sorrendet kövesd:
    kilépési kóddal jelez, ha valami hiányos).
 4. Soha ne szerkeszd közvetlenül a `data/fajtak.json`-t vagy `data/fajtak.js`-t,
    mindig felülíródik.
+
+Fajtakártya-fénykép hozzáadásakor/cseréjekor:
+1. Tedd be a képet az `assets/kep/fajtak/` mappába (átlátszó hátterű PNG
+   ajánlott, hogy illeszkedjen a kártya pasztell körkeretéhez).
+2. Vedd fel a `scripts/fajtak_kepek.py` `KEPEK` szótárába: `"Fajta neve":
+   "fajlnev.png"`.
+3. Futtasd újra a `python3 scripts/fajtak_epit.py`-t.
+4. `js/fajtak.js` a `fajta.kep` mező alapján dönti el, hogy legyen-e fotó a
+   kártyán (`.fajta-fenykep` — ha nincs `kep` mező, nem jelenik meg semmi,
+   nincs törött kép ikon).
 
 ## Márka / vizuális szabályok
 

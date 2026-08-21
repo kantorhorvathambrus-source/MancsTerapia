@@ -139,6 +139,7 @@ ALAPADATOK = [
 # A szótár feltöltése körönként, 10 fajtánként történik.
 # Import a scripts/fajtak_adatok/ mappából (fajták betűrendi csoportokban).
 from fajtak_adatok import SZOVEGEK  # noqa: E402
+from fajtak_kepek import KEPEK  # noqa: E402
 
 
 def epit():
@@ -155,6 +156,7 @@ def epit():
             "csoport": csoport,
             "erossegek": szoveg.get("erossegek", []),
             "hatranyok": szoveg.get("hatranyok", []),
+            "kep": KEPEK.get(nev),
         })
 
     with open(json_kimenet, "w", encoding="utf-8") as f:

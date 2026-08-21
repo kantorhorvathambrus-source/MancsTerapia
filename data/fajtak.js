@@ -27,7 +27,8 @@ window.FAJTAK_ADATOK = [
       "Vékony szőrzete miatt hidegben, fűtetlen térben fázékony lehet.",
       "Táplálkozása, rendszeres mozgatása és állatorvosi ellátása miatt költséges tartani.",
       "Sok mozgás híján stresszében hangosan nyüszíthet vagy ugathat."
-    ]
+    ],
+    "kep": "magyar-vizsla.png"
   },
   {
     "nev": "Drótszőrű magyar vizsla",
@@ -56,7 +57,8 @@ window.FAJTAK_ADATOK = [
       "Tartása, edzése és szőrápolása rendszeres időbeli és anyagi ráfordítást igényel.",
       "Zárt, mozgás nélküli lakáskörnyezetben nehezen érzi jól magát.",
       "Feszültség esetén hangos vonyítással vagy ugatással jelez."
-    ]
+    ],
+    "kep": "drotszoru-magyar-vizsla.png"
   },
   {
     "nev": "Puli",
@@ -85,7 +87,8 @@ window.FAJTAK_ADATOK = [
       "Első kutyás gazdának a szőrápolás megtanulása komoly kihívást jelenthet.",
       "Napi mozgás és mentális kihívás nélkül ideges, nyűgös lehet.",
       "Rendszeres szőrápolása miatt hosszú távon költséges a tartása."
-    ]
+    ],
+    "kep": "puli.png"
   },
   {
     "nev": "Pumi",
@@ -114,7 +117,8 @@ window.FAJTAK_ADATOK = [
       "Mentális inger hiányában rombolóvá vagy túlzottan ugatóssá válhat.",
       "Szőrzete rendszeres kefélést igényel az összegubancolódás elkerülésére.",
       "Ritka fajta lévén a képzett kölyök beszerzése hosszabb várakozással jár."
-    ]
+    ],
+    "kep": "pumi.png"
   },
   {
     "nev": "Mudi",
@@ -143,7 +147,8 @@ window.FAJTAK_ADATOK = [
       "Következetlen kiképzés mellett makacs, nehezen irányítható viselkedést mutathat.",
       "Erős vadászösztöne miatt szabadon engedve nehezen hívható vissza.",
       "Speciális igényei miatt a képzése és szocializációja időigényes feladat."
-    ]
+    ],
+    "kep": "mudi.png"
   },
   {
     "nev": "Komondor",
@@ -172,7 +177,8 @@ window.FAJTAK_ADATOK = [
       "Táplálkozása és állatorvosi ellátása nagy mérete miatt költséges.",
       "Fiatalon sok mozgást és szocializációt igényel, hogy kiegyensúlyozott felnőtt legyen.",
       "Éberségéből adódóan éjszaka is ugathat, ha veszélyt érzékel a környezetében."
-    ]
+    ],
+    "kep": "komondor.png"
   },
   {
     "nev": "Kuvasz",
@@ -201,7 +207,8 @@ window.FAJTAK_ADATOK = [
       "Fiatalkori szocializáció hiányában felnőttként túlzottan óvatossá válhat.",
       "Kis lakásban, mozgás nélkül nehezen érzi jól magát.",
       "Erős territoriális viselkedése miatt más kutyákkal konfliktusba kerülhet."
-    ]
+    ],
+    "kep": "kuvasz.png"
   },
   {
     "nev": "Erdélyi kopó",
@@ -230,7 +237,8 @@ window.FAJTAK_ADATOK = [
       "Idegen kisállatokkal szemben erős üldözési ösztönt mutathat.",
       "Kemény, türelmetlen kiképzés mellett makacsul viselkedhet.",
       "Kültéri, aktív tartást igényel, lakáskutyaként nehezen boldogul."
-    ]
+    ],
+    "kep": "erdelyi-kopo.png"
   },
   {
     "nev": "Labrador retriever",
@@ -259,7 +267,8 @@ window.FAJTAK_ADATOK = [
       "Vízhez és sárhoz vonzódik, ami gyakoribb fürdetést tesz szükségessé.",
       "Falánksága miatt figyelni kell, mit vesz fel a földről.",
       "Első kutyás gazdának a mérete és energiaszintje kihívást jelenthet."
-    ]
+    ],
+    "kep": "labrador-retriever.png"
   },
   {
     "nev": "Golden retriever",
@@ -288,7 +297,8 @@ window.FAJTAK_ADATOK = [
       "Bármilyen tócsa vagy tó látványa azonnal beugrásra csábítja.",
       "Kezdő gazdának a mérete és mozgásigénye kihívást jelenthet.",
       "Lelógó füle miatt rendszeres ellenőrzést és tisztítást igényel."
-    ]
+    ],
+    "kep": "golden-retriever.png"
   },
   {
     "nev": "Border collie",
@@ -317,7 +327,8 @@ window.FAJTAK_ADATOK = [
       "Szőrváltáskor a megszokottnál jóval több szőrt hullat egyszerre.",
       "Ha nem kap elég feladatot, ugatással próbálja felhívni magára a figyelmet.",
       "Munka nélkül tartva viselkedési problémák, például kényszeres mozgás alakulhat ki."
-    ]
+    ],
+    "kep": "border-collie.png"
   },
   {
     "nev": "Ausztrál juhászkutya",
@@ -346,7 +357,8 @@ window.FAJTAK_ADATOK = [
       "Szőrzete szezonálisan sokat hullat, gyakori kefélést kíván.",
       "Ismétlődő, cél nélküli mozgásmintákat alakíthat ki unalmában.",
       "Elsősorban vidéki, aktív háztartásokhoz illik, lakásban nehezebben boldogul."
-    ]
+    ],
+    "kep": "ausztral-juhaszkutya.png"
   },
   {
     "nev": "Német juhászkutya",
@@ -375,7 +387,8 @@ window.FAJTAK_ADATOK = [
       "Etetése, oltásai és esetleges kezelései nagy mérete miatt drágák.",
       "Más kutyákkal szemben területvédő magatartást mutathat idegen helyszínen.",
       "Következetlen nevelés mellett túlzottan gyanakvóvá válhat idegenekkel."
-    ]
+    ],
+    "kep": "nemet-juhaszkutya.png"
   },
   {
     "nev": "Belga juhászkutya (malinois)",
@@ -404,7 +417,8 @@ window.FAJTAK_ADATOK = [
       "Kemény, következetlen bánásmód mellett túlreagálhat egyszerű helyzeteket is.",
       "Naponta több órás strukturált foglalkoztatást igényel a kiegyensúlyozottsághoz.",
       "Munka jellegű, aktív tartást kíván, unott háziállatként nehezen boldogul."
-    ]
+    ],
+    "kep": "belga-juhaszkutya-malinois.png"
   },
   {
     "nev": "Fehér svájci pásztorkutya",
@@ -433,7 +447,8 @@ window.FAJTAK_ADATOK = [
       "Fiatal korban következetes, türelmes vezetést igényel a szocializáció során.",
       "Bélrendszeri érzékenységre és bizonyos autoimmun betegségekre is hajlamos.",
       "Kisebb, mozgásszegény lakókörnyezetben nehezen érzi jól magát."
-    ]
+    ],
+    "kep": "feher-svajci-pasztorkutya.png"
   },
   {
     "nev": "Cane corso",
@@ -462,7 +477,8 @@ window.FAJTAK_ADATOK = [
       "Fiatalon határozott, de türelmes vezetést és sok mozgást igényel.",
       "Egyedül hagyva unalmában berendezési tárgyakat rághat szét.",
       "Nyáladzik és időnként hangosan horkol, ami zárt térben zavaró lehet."
-    ]
+    ],
+    "kep": "cane-corso.png"
   },
   {
     "nev": "Rottweiler",
@@ -491,7 +507,8 @@ window.FAJTAK_ADATOK = [
       "Fiatalon türelmes, határozott vezetést és rendszeres mozgást igényel.",
       "Egyedül hagyva unalmában berendezési tárgyakat rongálhat.",
       "Túlsúly esetén gyorsan romlik az ízületei állapota."
-    ]
+    ],
+    "kep": "rottweiler.png"
   },
   {
     "nev": "Dobermann",
@@ -520,7 +537,8 @@ window.FAJTAK_ADATOK = [
       "Étkeztetése és állatorvosi ellátása a mérete miatt költséges.",
       "Véralvadási rendellenességre (von Willebrand-kór) is hajlamos lehet.",
       "Idegen kutyával szemben területvédő magatartást mutathat."
-    ]
+    ],
+    "kep": "dobermann.png"
   },
   {
     "nev": "Boxer",
@@ -549,7 +567,8 @@ window.FAJTAK_ADATOK = [
       "Szélsőséges hőmérsékleten érzékenyebb a rövid szőrzete miatt.",
       "Tartása és állatorvosi ellátása a testmérete miatt költséges.",
       "Csípőízületi és gerincproblémákra egyaránt hajlamos lehet."
-    ]
+    ],
+    "kep": "boxer.png"
   },
   {
     "nev": "Bernáthegyi",
@@ -578,7 +597,8 @@ window.FAJTAK_ADATOK = [
       "Első kutyás gazdának komoly próbatétel a mérete és a súlya.",
       "Fiatalon kíméletes, csontozatkímélő mozgásra van szüksége.",
       "Szívproblémákra és gyomorforgásra egyaránt fokozottan hajlamos."
-    ]
+    ],
+    "kep": "bernathegyi.png"
   },
   {
     "nev": "Newfoundlandi kutya",
@@ -607,7 +627,8 @@ window.FAJTAK_ADATOK = [
       "Fiatalon kíméletes, ízületkímélő mozgásra van szüksége.",
       "Átlagos élettartama rövidebb, gyakran 9-10 év körüli.",
       "Gyomorforgásra is fokozottan hajlamos a nagy testű fajtáknál."
-    ]
+    ],
+    "kep": "newfoundlandi-kutya.png"
   },
   {
     "nev": "Nagy svájci hegyikutya",
@@ -636,7 +657,8 @@ window.FAJTAK_ADATOK = [
       "Ritkábban látni ezt a fajtát itthon, hosszabb várakozás előzheti meg a beszerzését.",
       "Nyáladzása egyeseknek kellemetlen lehet zárt térben.",
       "Erős védelmező ösztöne miatt alapos szocializációt igényel kölyökkorban."
-    ]
+    ],
+    "kep": "nagy-svajci-hegyikutya.png"
   },
   {
     "nev": "Leonbergi",
@@ -665,7 +687,8 @@ window.FAJTAK_ADATOK = [
       "Nyáladzása és szőrhullása jelentős, gyakori takarítást igényel.",
       "Nagy testű fajtaként fokozott nála a gyomorforgás kockázata étkezés után.",
       "Örökletes idegrendszeri gyengeségre (polyneuropathia) is hajlamos lehet."
-    ]
+    ],
+    "kep": "leonbergi.png"
   },
   {
     "nev": "Óriás schnauzer",
@@ -694,7 +717,8 @@ window.FAJTAK_ADATOK = [
       "Tartása, étkeztetése és ápolása a mérete miatt költséges.",
       "Idegen kutyával szemben szoktatás nélkül domináns lehet.",
       "Erős territoriális ösztöne miatt éberen reagál minden szokatlan zajra."
-    ]
+    ],
+    "kep": "orias-schnauzer.png"
   },
   {
     "nev": "Középső schnauzer",
@@ -723,7 +747,8 @@ window.FAJTAK_ADATOK = [
       "Territoriális jelleme miatt idegen mozgásra könnyen ugatással reagál.",
       "Rendszeres szőrápolása hosszú távon jelentős kiadást jelent.",
       "Erős terelő és őrző ösztöne miatt alapos szocializációt igényel."
-    ]
+    ],
+    "kep": "kozepso-schnauzer.png"
   },
   {
     "nev": "Törpeschnauzer",
@@ -752,7 +777,8 @@ window.FAJTAK_ADATOK = [
       "Kis mérete miatt egy óvatlan mozdulattal könnyen megsérülhet.",
       "Szemcsatorna- és fogazati problémákra egyaránt hajlamos.",
       "Terelő és őrző hajlama miatt apróbb állatokat is üldözőbe vehet."
-    ]
+    ],
+    "kep": "torpeschnauzer.png"
   },
   {
     "nev": "Airedale terrier",
@@ -781,7 +807,8 @@ window.FAJTAK_ADATOK = [
       "Hosszabb magányban maradva rágással vagy ásással tölti az időt.",
       "Magyarországon ritkábban tenyésztett fajta, hosszabb várólistával.",
       "Rendszeres, szakértő kezű trimmelése hosszabb távon komoly kiadás."
-    ]
+    ],
+    "kep": "airedale-terrier.png"
   },
   {
     "nev": "Ír szetter",
@@ -810,7 +837,8 @@ window.FAJTAK_ADATOK = [
       "Nyirkos időben a lelógó füle könnyebben begyullad.",
       "Nagy testéhez igazodó táplálékmennyisége havi szinten komoly tétel.",
       "Falkakedvelő, mozgalmas kültéri életmódot igényel, ez lakásban nehéz."
-    ]
+    ],
+    "kep": "ir-szetter.png"
   },
   {
     "nev": "Angol szetter",
@@ -839,7 +867,8 @@ window.FAJTAK_ADATOK = [
       "Lelógó fülébe könnyen bekerül a piszok, ezért rendszeres tisztítást igényel.",
       "Nagy testmérete miatt az étkeztetés és az orvosi ellátás komoly kiadás.",
       "Vidéki, vadászati hagyományú körökben gyakoribb, városi tenyésztője kevés."
-    ]
+    ],
+    "kep": "angol-szetter.png"
   },
   {
     "nev": "Gordon szetter",
@@ -868,7 +897,8 @@ window.FAJTAK_ADATOK = [
       "Lelógó füle miatt hajlamos a fülgyulladásra, rendszeres ellenőrzést igényel.",
       "Mérete miatt költséges a tartása, az etetéstől az állatorvosi számlákig.",
       "Gyomorforgásra is hajlamos, ezért az etetési szokásokra figyelni kell."
-    ]
+    ],
+    "kep": "gordon-szetter.png"
   },
   {
     "nev": "Pointer",
@@ -897,7 +927,8 @@ window.FAJTAK_ADATOK = [
       "Vékony bőre miatt könnyen megkarcolódik bozótos terepen.",
       "Fiatalon élénk, kitartó, következetes nevelést igényel.",
       "Nagy testéhez igazodó élelmiszer- és mozgásköltsége számottevő."
-    ]
+    ],
+    "kep": "pointer.png"
   },
   {
     "nev": "Német drótszőrű vizsla",
@@ -926,7 +957,8 @@ window.FAJTAK_ADATOK = [
       "Kevéssé elterjedt itthon, nehezebb megbízható tenyésztőt találni.",
       "Elsősorban vadászatra tenyésztett fajta, városi lakásban ritkán elégedett.",
       "Kemény, türelmetlen bánásmód mellett makacsul viselkedhet."
-    ]
+    ],
+    "kep": "nemet-drotszoru-vizsla.png"
   },
   {
     "nev": "Weimari vizsla",
@@ -955,7 +987,8 @@ window.FAJTAK_ADATOK = [
       "Fiatalon rendkívül élénk, következetes, türelmes nevelést igényel.",
       "Tartása és étkeztetése a mérete miatt számottevő kiadás.",
       "Idegen kisállatokat vadászösztöne miatt üldözőbe vehet."
-    ]
+    ],
+    "kep": "weimari-vizsla.png"
   },
   {
     "nev": "Breton spániel",
@@ -984,7 +1017,8 @@ window.FAJTAK_ADATOK = [
       "Madarak vagy nyulak láttán azonnal vadászmódba kapcsolhat.",
       "Kevésbé elterjedt itthon, nehezebb megbízható tenyésztőt találni.",
       "Kültéri, aktív tartást igényel, monoton lakáskutyaként nehezen boldogul."
-    ]
+    ],
+    "kep": "breton-spaniel.png"
   },
   {
     "nev": "Cocker spániel",
@@ -1013,7 +1047,8 @@ window.FAJTAK_ADATOK = [
       "Kezdő gazdának a szőrápolás megtanulása kihívást jelenthet.",
       "Rendszeres szőrápolása hosszú távon számottevő kiadás.",
       "Túlzott izgalom hatására hajlamos hangosan csaholni."
-    ]
+    ],
+    "kep": "cocker-spaniel.png"
   },
   {
     "nev": "Springer spániel",
@@ -1042,7 +1077,8 @@ window.FAJTAK_ADATOK = [
       "Fiatalon rendkívül élénk, türelmes, következetes nevelést igényel.",
       "Túlzott izgalom hatására hajlamos ugrálni és hangosan csaholni.",
       "Aktív, kültéri életmódot igényel, lakáskutyaként nehezen boldogul."
-    ]
+    ],
+    "kep": "springer-spaniel.png"
   },
   {
     "nev": "Cavalier king charles spániel",
@@ -1071,7 +1107,8 @@ window.FAJTAK_ADATOK = [
       "Szívproblémái miatt rendszeres állatorvosi ellenőrzést igényel.",
       "Nem alkalmas őrző feladatra, idegenekkel túl bizalmas lehet.",
       "Rövid pofája miatt melegben nehezebben szabályozza a testhőmérsékletét."
-    ]
+    ],
+    "kep": "cavalier-king-charles-spaniel.png"
   },
   {
     "nev": "King charles spániel",
@@ -1100,7 +1137,8 @@ window.FAJTAK_ADATOK = [
       "Fogazati problémákra is fokozottan hajlamos apró állkapcsa miatt.",
       "Túlzott bizalma miatt semmilyen védelmi feladatra nem alkalmas.",
       "Ritkább, drágább fajta, nehezebb megbízható tenyésztőt találni."
-    ]
+    ],
+    "kep": "king-charles-spaniel.png"
   },
   {
     "nev": "Beagle",
@@ -1129,7 +1167,8 @@ window.FAJTAK_ADATOK = [
       "Hosszú, lelógó füle miatt rendszeres tisztítást igényel.",
       "Öntörvényű pillanataiban kitartó, türelmes nevelésre van szükség.",
       "Kezdő gazdának a szimat utáni elkalandozás kihívást jelenthet."
-    ]
+    ],
+    "kep": "beagle.png"
   },
   {
     "nev": "Basset hound",
@@ -1158,7 +1197,8 @@ window.FAJTAK_ADATOK = [
       "Makacs jelleme miatt következetes, türelmes nevelést igényel.",
       "Testfelépítése miatt kerülni kell az ugrálást és a lépcsőzést.",
       "Szembetegségekre, köztük szemhéjrendellenességre is hajlamos lehet."
-    ]
+    ],
+    "kep": "basset-hound.png"
   },
   {
     "nev": "Foxhound",
@@ -1187,7 +1227,8 @@ window.FAJTAK_ADATOK = [
       "Idegen kisállatokat üldözőbe vehet erős zsákmányszerző ösztöne miatt.",
       "Ritkán tartják egyedüli háziállatként, társ nélkül unatkozhat.",
       "Makacs pillanataiban kitartó, türelmes vezetést igényel."
-    ]
+    ],
+    "kep": "foxhound.png"
   },
   {
     "nev": "Dalmata",
@@ -1216,7 +1257,8 @@ window.FAJTAK_ADATOK = [
       "Vékony bundája miatt téli sétákhoz gyakran kabátra van szüksége.",
       "Erőteljes, néha türelmetlen játékmódja miatt kisgyerekekkel felügyelet szükséges.",
       "Bőrallergiákra és ízületi problémákra egyaránt hajlamos lehet."
-    ]
+    ],
+    "kep": "dalmata.png"
   },
   {
     "nev": "Jack russell terrier",
@@ -1245,7 +1287,8 @@ window.FAJTAK_ADATOK = [
       "Egy óvatlan lépés vagy leejtés komoly sérülést okozhat apró testén.",
       "Dacos periódusaiban csak határozott, kitartó vezetéssel kezelhető.",
       "Egy méteres kerítésen is átugorhat, ha elég motivált rá."
-    ]
+    ],
+    "kep": "jack-russell-terrier.png"
   },
   {
     "nev": "Parson russell terrier",
@@ -1274,7 +1317,8 @@ window.FAJTAK_ADATOK = [
       "Egy leejtés vagy erős fogás komoly sérülést okozhat apró testén.",
       "Csak határozott, következetes vezetés mellett marad kezelhető.",
       "Egy alacsonyabb kerítést is könnyedén átugrik, ha motivált rá."
-    ]
+    ],
+    "kep": "parson-russell-terrier.png"
   },
   {
     "nev": "Drótszőrű foxterrier",
@@ -1303,7 +1347,8 @@ window.FAJTAK_ADATOK = [
       "Egy kezdő gazda nehezen tartja kordában az önálló akaratát.",
       "Csak határozott, kitartó vezetés mellett marad kezelhető felnőttként.",
       "Szőrápolása szakemberrel hosszú távon számottevő kiadás."
-    ]
+    ],
+    "kep": "drotszoru-foxterrier.png"
   },
   {
     "nev": "Simaszőrű foxterrier",
@@ -1332,7 +1377,8 @@ window.FAJTAK_ADATOK = [
       "Erőteljes ugrásaival könnyen átjut egy alacsonyabb kerítésen.",
       "Kerti ágyásokban is szívesen keres el nem ásott kincseket.",
       "Egyedül hagyva hosszasan vinnyoghat, amíg vissza nem tér a gazdája."
-    ]
+    ],
+    "kep": "simaszoru-foxterrier.png"
   },
   {
     "nev": "Yorkshire terrier",
@@ -1361,7 +1407,8 @@ window.FAJTAK_ADATOK = [
       "Apró mérete és vékony szőrzete miatt hidegben gyorsan lehűl.",
       "Öntörvényű pillanataiban is türelmes, következetes vezetést igényel.",
       "Méretéből adódóan semmilyen őrző szerepre nem alkalmas."
-    ]
+    ],
+    "kep": "yorkshire-terrier.png"
   },
   {
     "nev": "West highland white terrier",
@@ -1390,7 +1437,8 @@ window.FAJTAK_ADATOK = [
       "Felnőttkorára is megőrzi az önfejűségét, ha engedékenyen nevelik.",
       "Kéthavonta esedékes szőrnyírása visszatérő tétel a családi költségvetésben.",
       "Kis termete ellenére kisebb rágcsálókat üldözőbe vehet."
-    ]
+    ],
+    "kep": "west-highland-white-terrier.png"
   },
   {
     "nev": "Skót terrier",
@@ -1419,7 +1467,8 @@ window.FAJTAK_ADATOK = [
       "Kis termete ellenére kisebb rágcsálókat is üldözőbe vehet.",
       "Rendszeres kutyaszalonos igazítása hosszú távon komoly kiadás.",
       "Idegenekkel szemben kezdetben tartózkodó, gyanakvó lehet."
-    ]
+    ],
+    "kep": "skot-terrier.png"
   },
   {
     "nev": "Cairn terrier",
@@ -1448,7 +1497,8 @@ window.FAJTAK_ADATOK = [
       "Csak kitartó, türelmes vezetéssel marad kezelhető felnőttkorban is.",
       "Kertészkedő gazdáknak oda kell figyelniük a felásott ágyásokra.",
       "Természetes szőrzetét időről időre kézzel kell igazítani."
-    ]
+    ],
+    "kep": "cairn-terrier.png"
   },
   {
     "nev": "Boston terrier",
@@ -1477,7 +1527,8 @@ window.FAJTAK_ADATOK = [
       "Sok tenyészkanca esetében szükség lehet mesterséges megtermékenyítésre.",
       "Fokozottan hajlamos allergiás bőrgyulladásra a nyári hónapokban.",
       "Kezdő gazdának a légzési korlátait figyelembe kell vennie mozgás közben."
-    ]
+    ],
+    "kep": "boston-terrier.png"
   },
   {
     "nev": "Bullterrier",
@@ -1506,7 +1557,8 @@ window.FAJTAK_ADATOK = [
       "Néhány országban fajtaspecifikus tartási szabályok is vonatkozhatnak rá.",
       "Makacs pillanataiban következetes, határozott nevelést igényel.",
       "Erős akaratereje miatt kezdő gazdának komoly kihívást jelenthet."
-    ]
+    ],
+    "kep": "bullterrier.png"
   },
   {
     "nev": "Staffordshire bullterrier",
@@ -1535,7 +1587,8 @@ window.FAJTAK_ADATOK = [
       "Öntörvényű pillanataiban türelmes, kitartó vezetésre van szükség.",
       "Egyes régiókban tenyésztési vagy tartási korlátozás alá eshet.",
       "Túlzott lelkesedésében erősebben ránthat a pórázon, mint várnánk."
-    ]
+    ],
+    "kep": "staffordshire-bullterrier.png"
   },
   {
     "nev": "Amerikai staffordshire terrier",
@@ -1564,7 +1617,8 @@ window.FAJTAK_ADATOK = [
       "Makacs pillanataiban következetes, határozott vezetést igényel.",
       "Egyes országokban tenyésztési vagy tartási korlátozás alá eshet.",
       "Ragaszkodása miatt egyedül maradva szeparációs szorongást fejleszthet ki."
-    ]
+    ],
+    "kep": "amerikai-staffordshire-terrier.png"
   },
   {
     "nev": "Ír terrier",
@@ -1593,7 +1647,8 @@ window.FAJTAK_ADATOK = [
       "Öntörvényű pillanataiban türelmes, kitartó vezetést igényel.",
       "Feszültségében kitartó, éles ugatással hívja fel magára a figyelmet.",
       "Rendszeres szalonlátogatása hosszú távon komoly kiadási tétel."
-    ]
+    ],
+    "kep": "ir-terrier.png"
   },
   {
     "nev": "Border terrier",
@@ -1622,7 +1677,8 @@ window.FAJTAK_ADATOK = [
       "Dacos periódusaiban csak türelmes, kitartó vezetéssel kezelhető.",
       "Terelő és vadász gyökerei miatt gyorsan futó dolgokat üldözőbe vehet.",
       "Rendszeres szakszerű igazítása hosszú távon számottevő kiadás."
-    ]
+    ],
+    "kep": "border-terrier.png"
   },
   {
     "nev": "Bichon frisé",
@@ -1651,7 +1707,8 @@ window.FAJTAK_ADATOK = [
       "Idegen zajra gyakran magas hangú vakkantással reagál.",
       "Kezdő gazdának a rendszeres szalonlátogatás megszervezése új feladat.",
       "Mérete miatt semmilyen őrző vagy védelmi szerepre nem alkalmas."
-    ]
+    ],
+    "kep": "bichon-frise.png"
   },
   {
     "nev": "Máltai selyemkutya",
@@ -1680,7 +1737,8 @@ window.FAJTAK_ADATOK = [
       "Alacsony testhőszabályozó képessége miatt hidegben gyorsan fázik.",
       "Fehér szőrén könnyen látszik minden folt vagy elszíneződés.",
       "Rendszeres, szakszerű fürdetése és nyírása visszatérő kiadás."
-    ]
+    ],
+    "kep": "maltai-selyemkutya.png"
   },
   {
     "nev": "Havanese",
@@ -1709,7 +1767,8 @@ window.FAJTAK_ADATOK = [
       "Rendszeres, szakszerű szőrápolása visszatérő kiadási tétel.",
       "Elkényeztetve hajlamos túlzottan követelőzővé válni felnőttkorára is.",
       "Apró termete miatt kizárólag társkutyaként, nem őrzőként érdemes tartani."
-    ]
+    ],
+    "kep": "havanese.png"
   },
   {
     "nev": "Törpepudli",
@@ -1738,7 +1797,8 @@ window.FAJTAK_ADATOK = [
       "Mérete miatt semmilyen komoly őrző szerepre nem alkalmas.",
       "Rendszeres, szakszerű szőrápolása hosszú távon számottevő kiadás.",
       "Unaloműzésre kényszeres, ismétlődő mozgásmintát alakíthat ki."
-    ]
+    ],
+    "kep": "torpepudli.png"
   },
   {
     "nev": "Nagypudli",
@@ -1767,7 +1827,8 @@ window.FAJTAK_ADATOK = [
       "Fülgyulladásra hajlamos a lelógó, szellőzést nehezítő fülforma miatt.",
       "Rendszeres szakszerű szőrápolása hosszú távon komoly kiadás.",
       "Ragaszkodása miatt hosszabb egyedüllétet nehezen visel el."
-    ]
+    ],
+    "kep": null
   },
   {
     "nev": "Lagotto romagnolo",
@@ -1796,7 +1857,8 @@ window.FAJTAK_ADATOK = [
       "Nedves bundája lassan szárad, ami kellemetlen szagot okozhat.",
       "Kezdő gazdának a rendszeres szőrnyírás megszervezése új feladat.",
       "Fiatal korban rendkívül élénk, kitartó, türelmes nevelést igényel."
-    ]
+    ],
+    "kep": "lagotto-romagnolo.png"
   },
   {
     "nev": "Shih tzu",
@@ -1825,7 +1887,8 @@ window.FAJTAK_ADATOK = [
       "Kezdő gazdának a szőrápolási rutin megtanulása új feladat.",
       "Nem alkalmas őrző szerepre, méretéből adódóan sebezhető.",
       "Horkolása rövidebb orraformája miatt éjszaka is hallható lehet."
-    ]
+    ],
+    "kep": "shih-tzu.png"
   },
   {
     "nev": "Lhasa apso",
@@ -1854,7 +1917,8 @@ window.FAJTAK_ADATOK = [
       "Csak jelzésre alkalmas, komolyabb védelmi szerepre nem.",
       "Kéthavonta esedékes szőrnyírása visszatérő tétel a családi kasszában.",
       "Kis mérete miatt óvatlan bánásmód mellett könnyen megsérülhet."
-    ]
+    ],
+    "kep": "lhasa-apso.png"
   },
   {
     "nev": "Tibeti spániel",
@@ -1883,7 +1947,8 @@ window.FAJTAK_ADATOK = [
       "Nyugat-Európán kívül ritkábban tenyésztett, nehezebb hozzájutni.",
       "Apró testalkata miatt egy durvább mozdulat könnyen kárt tehet benne.",
       "Éberségéből fakadóan apróbb zajokra is gyakran reagál hanggal."
-    ]
+    ],
+    "kep": "tibeti-spaniel.png"
   },
   {
     "nev": "Pekingi palotakutya",
@@ -1912,7 +1977,8 @@ window.FAJTAK_ADATOK = [
       "Nem alkalmas semmilyen aktív, hosszú sétás programra.",
       "Bundájának formában tartása visszatérő szalonköltséget jelent.",
       "Szülés közben gyakran szükség lehet császármetszésre nagy fejük miatt."
-    ]
+    ],
+    "kep": null
   },
   {
     "nev": "Mopsz",
@@ -1941,7 +2007,8 @@ window.FAJTAK_ADATOK = [
       "Hőérzékenysége miatt nyáron fokozott odafigyelést igényel a gazdától.",
       "Elkényeztetve könnyen makacsul követelőzővé válhat felnőttkorára.",
       "Nem alkalmas semmilyen őrző vagy aktív sportfeladatra."
-    ]
+    ],
+    "kep": "mopsz.png"
   },
   {
     "nev": "Francia bulldog",
@@ -1970,7 +2037,8 @@ window.FAJTAK_ADATOK = [
       "Kezdő gazdának a hőtűrési korlátait figyelembe kell vennie mozgás közben.",
       "Túlzott figyelem mellett hajlamossá válhat a követelőzésre.",
       "Barátságos alkata miatt semmilyen őrző feladatra nem vethető be."
-    ]
+    ],
+    "kep": "francia-bulldog.png"
   },
   {
     "nev": "Angol bulldog",
@@ -1999,7 +2067,8 @@ window.FAJTAK_ADATOK = [
       "Átlagos élettartama rövidebb az egészségügyi terhelés miatt.",
       "Kezdő gazdának komoly felelősség a hőmérséklet és terhelés figyelése.",
       "Semmilyen aktív, hosszú sétás vagy futásos programra nem alkalmas."
-    ]
+    ],
+    "kep": "angol-bulldog.png"
   },
   {
     "nev": "Basenji",
@@ -2028,7 +2097,8 @@ window.FAJTAK_ADATOK = [
       "Egyedül hagyva a bútorokat vagy cipőket is megrágcsálhatja unalmában.",
       "Kevéssé elterjedt fajta itthon, nehezebb megbízható tenyésztőt találni.",
       "Szabad terepen szimatot követve nehezen hívható vissza pórázon kívül."
-    ]
+    ],
+    "kep": "basenji.png"
   },
   {
     "nev": "Sharpei",
@@ -2057,7 +2127,8 @@ window.FAJTAK_ADATOK = [
       "Időszakos lázbetegségre (family shar-pei fever) is hajlamos lehet.",
       "Idegenekkel szemben eleinte gyanakvó, tartózkodó viselkedést mutat.",
       "Rendszeres bőrredő-tisztítása hosszú távon számottevő kiadás."
-    ]
+    ],
+    "kep": "sharpei.png"
   },
   {
     "nev": "Chow chow",
@@ -2086,7 +2157,8 @@ window.FAJTAK_ADATOK = [
       "Ismeretlen kutyák közelségében feszült, versengő magatartást mutathat.",
       "Sűrű bundájának rendszeres nyírása visszatérő anyagi teherré válhat.",
       "Zárt, szeretetteljes jellege miatt idegenekkel nehezen barátkozik."
-    ]
+    ],
+    "kep": null
   },
   {
     "nev": "Akita inu",
@@ -2115,7 +2187,8 @@ window.FAJTAK_ADATOK = [
       "Erős falkaszemlélete miatt más állatokkal nehezen fér meg.",
       "Következetlen nevelés mellett kezelhetetlenné válhat még felnőttkorára is.",
       "Nagy testmérete miatt tartása és étkeztetése számottevő kiadás."
-    ]
+    ],
+    "kep": "akita-inu.png"
   },
   {
     "nev": "Shiba inu",
@@ -2144,7 +2217,8 @@ window.FAJTAK_ADATOK = [
       "Szőrváltás idején jelentősen többet hullat, mint egyébként.",
       "Erős területvédő ösztöne miatt alapos szocializációt igényel.",
       "Következetlen nevelés mellett makacsul, önfejűen viselkedhet."
-    ]
+    ],
+    "kep": "shiba-inu.png"
   },
   {
     "nev": "Sziberiai husky",
@@ -2173,7 +2247,8 @@ window.FAJTAK_ADATOK = [
       "Erős zsákmányszerző ösztöne miatt kisebb állatokat üldözőbe vehet.",
       "Szánhúzó gyökerei miatt kifejezetten aktív, kültéri életmódra vágyik.",
       "Foglalkoztatás híján kertjéből is könnyen kiás egy alagutat."
-    ]
+    ],
+    "kep": "sziberiai-husky.png"
   },
   {
     "nev": "Alaszkai malamut",
@@ -2202,7 +2277,8 @@ window.FAJTAK_ADATOK = [
       "Zsákmányszerző ösztöne miatt kisebb állatokat üldözőbe vehet.",
       "Elsősorban hideg éghajlatú, aktív háztartásokhoz illik igazán.",
       "Azonos nemű kutyával szemben időnként versengő, harcias lehet."
-    ]
+    ],
+    "kep": "alaszkai-malamut.png"
   },
   {
     "nev": "Szamojéd",
@@ -2231,7 +2307,8 @@ window.FAJTAK_ADATOK = [
       "Szőrváltáskor a szokásosnál jóval nagyobb mennyiséget hullat.",
       "Erős falkakötődése miatt egyedüli kutyaként hosszabb magányt nehezen visel.",
       "Rendszeres, alapos fésülése hosszú távon komoly időráfordítás."
-    ]
+    ],
+    "kep": "szamojed.png"
   },
   {
     "nev": "Grönlandi kutya",
@@ -2260,7 +2337,8 @@ window.FAJTAK_ADATOK = [
       "Itthon kevéssé elterjedt, nehezebb megbízható tenyésztőt találni.",
       "Tapasztalatlan kézben könnyen átveszi az irányítást a gazda felett.",
       "Rangsorolásra hajlamos falkaszemlélete miatt más kutyákkal konfliktusba kerülhet."
-    ]
+    ],
+    "kep": "gronlandi-kutya.png"
   },
   {
     "nev": "Ír farkaskutya",
@@ -2289,7 +2367,8 @@ window.FAJTAK_ADATOK = [
       "Rendszeres, szakszerű szőrápolást is igényel néha.",
       "Csontrákra (osteosarcoma) is fokozottan hajlamos nagy mérete miatt.",
       "Nagy mérete miatt speciálisan méretezett felszerelésre van szüksége."
-    ]
+    ],
+    "kep": "ir-farkaskutya.png"
   },
   {
     "nev": "Skót szarvasagár",
@@ -2318,7 +2397,8 @@ window.FAJTAK_ADATOK = [
       "Szimatot vagy mozgó vadat követve pórázon kívül nehéz visszahívni.",
       "Csontdaganatra (osteosarcoma) az átlagosnál nagyobb eséllyel hajlamos.",
       "Speciálisan méretezett hevederre és fekhelyre van szüksége mérete miatt."
-    ]
+    ],
+    "kep": "skot-szarvasagar.png"
   },
   {
     "nev": "Angol agár",
@@ -2347,7 +2427,8 @@ window.FAJTAK_ADATOK = [
       "Kis zsírrétege miatt hosszabb hidegben tartózkodás kockázatos számára.",
       "Első kutyás gazdának a sebesség miatti biztonsági kockázat új szempont.",
       "Idősebb korára szívbillentyű-elégtelenség is kialakulhat, rendszeres szűrést igényel."
-    ]
+    ],
+    "kep": "angol-agar.png"
   },
   {
     "nev": "Afgán agár",
@@ -2376,7 +2457,8 @@ window.FAJTAK_ADATOK = [
       "Fájdalomkifejezése visszafogott, nehezebb felismerni, ha rosszul érzi magát.",
       "Vékony bőre miatt bozótos terepen könnyen megsérülhet.",
       "Következetlen nevelés mellett zárkózottá, nehezen elérhetővé válhat."
-    ]
+    ],
+    "kep": "afgan-agar.png"
   },
   {
     "nev": "Whippet",
@@ -2405,7 +2487,8 @@ window.FAJTAK_ADATOK = [
       "Fájdalmát visszafogottan mutatja, nehezebb észrevenni, ha valami fáj neki.",
       "Fürdés után hosszabb ideig tart, míg vékony bundája teljesen megszárad.",
       "Túlzott hidegben rövid sétákra és kabátra van szüksége."
-    ]
+    ],
+    "kep": "whippet.png"
   },
   {
     "nev": "Spanyol agár",
@@ -2434,7 +2517,8 @@ window.FAJTAK_ADATOK = [
       "Itthon kevésbé elterjedt, nehezebb megbízható forrásból beszerezni.",
       "Erős kötődése miatt egy új gazdaváltás komoly stresszt okozhat neki.",
       "Ízületi kopásra hajlamos, ha fiatalon túlzott terhelésnek van kitéve."
-    ]
+    ],
+    "kep": "spanyol-agar.png"
   },
   {
     "nev": "Olasz agár",
@@ -2463,7 +2547,8 @@ window.FAJTAK_ADATOK = [
       "Gyors mozgásra, elszaladó apróságokra ösztönösen felfigyel és utána ered.",
       "Kisgyerekek közelében fokozott felügyeletet igényel a törékenysége miatt.",
       "Lépcsőn fel- és lejárás közben is érdemes figyelni rá sérülés elkerülésére."
-    ]
+    ],
+    "kep": "olasz-agar.png"
   },
   {
     "nev": "Magyar agár",
@@ -2492,7 +2577,8 @@ window.FAJTAK_ADATOK = [
       "Erős kötődése miatt hosszabb magányban szorongást, nyüszítést mutathat.",
       "Idősebb korára ízületi kopásra és csontritkulásra egyaránt hajlamos.",
       "Kezdő gazdának a sebesség miatti biztonsági odafigyelés új feladat."
-    ]
+    ],
+    "kep": "magyar-agar.png"
   },
   {
     "nev": "Rodéziai ridgeback",
@@ -2521,7 +2607,8 @@ window.FAJTAK_ADATOK = [
       "Idegen kutyákkal szemben eleinte tartózkodó, óvatos lehet.",
       "Foglalkoztatás híján otthoni tárgyakat rágcsálhat szét unalmában.",
       "Robusztus testéhez igazodó étrendje havi szinten komoly kiadás."
-    ]
+    ],
+    "kep": "rodeziai-ridgeback.png"
   },
   {
     "nev": "Bloodhound",
@@ -2550,7 +2637,8 @@ window.FAJTAK_ADATOK = [
       "Növekedése idején kíméletes, fokozatos terhelésre van szüksége.",
       "Egy erős szagnyomot követve szinte semmi sem tudja eltéríteni.",
       "Rövid élettartamú fajta nagy mérete miatt, gyakran 10-12 évig él."
-    ]
+    ],
+    "kep": "bloodhound.png"
   },
   {
     "nev": "Basset artésien normand",
@@ -2579,7 +2667,8 @@ window.FAJTAK_ADATOK = [
       "Csökönyös pillanataiban higgadt, kitartó ismétlésre van szükség.",
       "Egyedül hagyva hosszasan, hangosan panaszkodhat a szomszédok bosszúságára.",
       "Szemhéjrendellenességre és fülfertőzésre egyaránt hajlamos fajta."
-    ]
+    ],
+    "kep": "basset-artesien-normand.png"
   },
   {
     "nev": "Beagle harrier",
@@ -2608,7 +2697,8 @@ window.FAJTAK_ADATOK = [
       "Öntörvényű pillanataiban következetes, kitartó vezetést igényel.",
       "Kezdő gazdának kihívást jelenthet a szaglás miatti könnyű elkalandozás.",
       "Étel iránti erős motivációja miatt könnyen elhízhat felügyelet nélkül."
-    ]
+    ],
+    "kep": "beagle-harrier.png"
   },
   {
     "nev": "Törpetacskó",
@@ -2637,7 +2727,8 @@ window.FAJTAK_ADATOK = [
       "Unalmában a kertben apró alagutakat áshat magának.",
       "Fogazati problémákra apró állkapcsa miatt fokozottan hajlamos.",
       "Kezdő gazdának a gerincvédelem megtanulása új feladat."
-    ]
+    ],
+    "kep": "torpetacsko.png"
   },
   {
     "nev": "Normál tacskó",
@@ -2666,7 +2757,8 @@ window.FAJTAK_ADATOK = [
       "Egyedül hagyva a kertben apró alagutakat áshat magának.",
       "Fogazati problémákra hajlamos, rendszeres fogápolást igényel.",
       "Kezdő gazdának a gerincvédelem és a mozgáskorlátozás új feladat."
-    ]
+    ],
+    "kep": "normal-tacsko.png"
   },
   {
     "nev": "Chihuahua",
@@ -2695,7 +2787,8 @@ window.FAJTAK_ADATOK = [
       "Nem alkalmas őrző feladatra, méretéből adódóan sebezhető.",
       "Túlzott kényeztetés mellett hajlamossá válhat a követelőzésre.",
       "Játszó gyerekek közelében fokozott odafigyelést igényel apró mérete miatt."
-    ]
+    ],
+    "kep": "chihuahua.png"
   },
   {
     "nev": "Pomerániai törpespicc",
@@ -2724,7 +2817,8 @@ window.FAJTAK_ADATOK = [
       "Kezdő gazdának a szalonlátogatások megszervezése új feladat.",
       "Kis mérete miatt semmilyen komoly védelmi szerepre nem alkalmas.",
       "Kéthavonta esedékes szőrformázása visszatérő kiadási tétel."
-    ]
+    ],
+    "kep": "pomeraniai-torpespicc.png"
   },
   {
     "nev": "Keeshond",
@@ -2753,7 +2847,8 @@ window.FAJTAK_ADATOK = [
       "Kezdő gazdának a rendszeres kefélés megszervezése új feladat.",
       "Négy-hat hetente esedékes szakszerű fésülése visszatérő kiadás.",
       "Idegen látogatók érkezésekor hangosan, kitartóan jelezhet."
-    ]
+    ],
+    "kep": "keeshond.png"
   },
   {
     "nev": "Walesi corgi pembroke",
@@ -2782,7 +2877,8 @@ window.FAJTAK_ADATOK = [
       "Rövid lábai miatt kerülni kell az ugrálást és a lépcsőzést.",
       "Dacos periódusaiban kitartó, nyugodt vezetést igényel.",
       "Kisebb gyerekek bokáját játék közben ösztönösen megkergetheti."
-    ]
+    ],
+    "kep": "walesi-corgi-pembroke.png"
   },
   {
     "nev": "Walesi corgi cardigan",
@@ -2811,7 +2907,8 @@ window.FAJTAK_ADATOK = [
       "Napi rendszeres mozgás híján nyugtalanná, unottá válhat.",
       "Dacos pillanataiban higgadt, kitartó ismétlésre van szükség.",
       "Egyedül hagyva hosszabb ideig hangosan panaszkodhat."
-    ]
+    ],
+    "kep": "walesi-corgi-cardigan.png"
   },
   {
     "nev": "Ausztrál cattle dog",
@@ -2840,7 +2937,8 @@ window.FAJTAK_ADATOK = [
       "Sarkon harapdálva próbálhatja terelni a mozgó embereket.",
       "Magára hagyva a kerti berendezést vagy bútorokat is szétrágcsálhatja.",
       "Munka jellegű, aktív tartást igényel, unott háziállatként nehezen boldogul."
-    ]
+    ],
+    "kep": "ausztral-cattle-dog.png"
   },
   {
     "nev": "Ausztrál kelpie",
@@ -2869,7 +2967,8 @@ window.FAJTAK_ADATOK = [
       "Terelés közben ösztönösen a sarkakba haraphat.",
       "Ritkábban látni ezt a fajtát itthon, nehezebb hozzá tenyésztőt találni.",
       "Következetlen kiképzés mellett túlpörgötté, ideges válhat."
-    ]
+    ],
+    "kep": "ausztral-kelpie.png"
   },
   {
     "nev": "Angol ószövegű juhászkutya (bobtail)",
@@ -2898,7 +2997,8 @@ window.FAJTAK_ADATOK = [
       "Rendszeres szőrápolása hosszú távon jelentős kiadás.",
       "Szeme a hosszú szőrtől eltakarva nehezebben tájékozódik.",
       "Társaság nélkül unatkozva kitartóan, hangosan jelezheti magányát."
-    ]
+    ],
+    "kep": "angol-oszovegu-juhaszkutya-bobtail.png"
   },
   {
     "nev": "Shetlandi juhászkutya",
@@ -2927,7 +3027,8 @@ window.FAJTAK_ADATOK = [
       "Foglalkoztatás híján ismétlődő, kényszeres viselkedést alakíthat ki.",
       "Kefélés nélkül a szőre gyorsan összegubancolódik és csomósodik.",
       "Rendszeres fésülése a fajta tartásának visszatérő időbeli terhe."
-    ]
+    ],
+    "kep": "shetlandi-juhaszkutya.png"
   },
   {
     "nev": "Skót juhászkutya (collie)",
@@ -2956,7 +3057,8 @@ window.FAJTAK_ADATOK = [
       "Fésülés elmaradása esetén a szőre hamar csomókba áll össze.",
       "Kezdő gazdának a rendszeres fésülés megszervezése új feladat.",
       "Négy-hat hetente esedékes szakszerű nyírása visszatérő kiadás."
-    ]
+    ],
+    "kep": "skot-juhaszkutya-collie.png"
   },
   {
     "nev": "Beauceron",
@@ -2985,7 +3087,8 @@ window.FAJTAK_ADATOK = [
       "Robusztus testéhez igazodó táplálékadagja havonta komoly kiadás.",
       "Kevés tenyésztője van itthon, hosszabb várólista előzheti meg beszerzését.",
       "Idegen kan kutyákkal szemben versengő, olykor harcias lehet."
-    ]
+    ],
+    "kep": "beauceron.png"
   },
   {
     "nev": "Briard",
@@ -3014,7 +3117,8 @@ window.FAJTAK_ADATOK = [
       "Fiatalon sok, de kíméletes mozgásra van szüksége a csontozat védelméért.",
       "Elsősorban vidéki, mozgalmas háztartásokhoz illik igazán jól.",
       "Négy-hat hetente esedékes szakszerű nyírása visszatérő kiadási tétel."
-    ]
+    ],
+    "kep": "briard.png"
   },
   {
     "nev": "Entlebuchi pásztorkutya",
@@ -3043,7 +3147,8 @@ window.FAJTAK_ADATOK = [
       "Feladat híján a bútorokat vagy tárgyakat is megrágcsálhatja.",
       "Munka közben ösztönösen a lábszárba haraphat, hogy tereljen.",
       "Elsősorban vidéki, mozgalmas gazdaságokhoz illik igazán jól."
-    ]
+    ],
+    "kep": "entlebuchi-pasztorkutya.png"
   },
   {
     "nev": "Appenzelli pásztorkutya",
@@ -3072,7 +3177,8 @@ window.FAJTAK_ADATOK = [
       "Ritkábban látni ezt a fajtát itthon, hosszabb várakozás előzheti meg beszerzését.",
       "Magára hagyva a bútorokat vagy tárgyakat is megrágcsálhatja.",
       "Munkakedve miatt tanyasi, mozgalmas környezetben érzi igazán jól magát."
-    ]
+    ],
+    "kep": "appenzelli-pasztorkutya.png"
   },
   {
     "nev": "Portugál vízikutya",
@@ -3101,7 +3207,8 @@ window.FAJTAK_ADATOK = [
       "Portugálián kívül nehezebb megbízható tenyésztőre találni.",
       "Négy-hat hetente esedékes szalonlátogatása visszatérő kiadás.",
       "Munkakedve miatt kültéri, aktív tartást igényel igazán jól."
-    ]
+    ],
+    "kep": "portugal-vizikutya.png"
   },
   {
     "nev": "Spanyol vízikutya",
@@ -3130,7 +3237,8 @@ window.FAJTAK_ADATOK = [
       "Foglalkoztatás híján a kerti berendezést vagy bútorokat is szétrágcsálhatja.",
       "Új kutyákkal való ismerkedéskor eleinte tartózkodóan viselkedik.",
       "Munkakedve miatt tanyasi, aktív környezetben érzi igazán jól magát."
-    ]
+    ],
+    "kep": "spanyol-vizikutya.png"
   },
   {
     "nev": "Göndörszőrű retriever",
@@ -3159,7 +3267,8 @@ window.FAJTAK_ADATOK = [
       "Egyedül hagyva unalmában rágcsálással jelezheti a frusztrációját.",
       "Nedves fülcsatornája miatt rendszeres ellenőrzést és tisztítást igényel.",
       "Ismeretlen helyzetekben elsőre visszafogottan, óvatosan viselkedik."
-    ]
+    ],
+    "kep": "gondorszoru-retriever.png"
   },
   {
     "nev": "Egyenesszőrű retriever",
@@ -3188,7 +3297,8 @@ window.FAJTAK_ADATOK = [
       "Elsőkutyás gazdának megterhelő lehet az örök kölyökkori lendület.",
       "Túlzott lelkesedésében nehezen nyugszik meg egy izgalmasabb helyzetben.",
       "Európán kívül alig ismert, nehéz hozzá jó tenyésztőt találni."
-    ]
+    ],
+    "kep": "egyenesszoru-retriever.png"
   },
   {
     "nev": "Nova Scotia Duck Tolling Retriever",
@@ -3217,7 +3327,8 @@ window.FAJTAK_ADATOK = [
       "Feladat híján a bútorok sarkát is megrágcsálhatja unalmában.",
       "Elhagyott játékot vagy tárgyat képtelen otthagyni, mindig visszaviszi.",
       "Munkakedve miatt aktív, feladatorientált tartást igényel igazán jól."
-    ]
+    ],
+    "kep": "nova-scotia-duck-tolling-retriever.png"
   },
   {
     "nev": "Toy foxterrier",
@@ -3246,7 +3357,8 @@ window.FAJTAK_ADATOK = [
       "Testfelépítése miatt semmilyen komoly védelmi szerepre nem alkalmas.",
       "Kisgyerekek közelében fokozott felügyeletet igényel apró mérete miatt.",
       "Apró állkapcsa miatt korán jelentkezhet fogkő és fogvesztés."
-    ]
+    ],
+    "kep": "toy-foxterrier.png"
   },
   {
     "nev": "Manchester terrier",
@@ -3275,7 +3387,8 @@ window.FAJTAK_ADATOK = [
       "Azonos nemű kutyával szemben időnként versengő magatartást mutathat.",
       "Dacos periódusaiban higgadt, kitartó ismétlésre van szükség.",
       "Angliától távolabb ritkábban tenyésztett, nehezebb hozzájutni."
-    ]
+    ],
+    "kep": "manchester-terrier.png"
   },
   {
     "nev": "Bedlington terrier",
@@ -3304,7 +3417,8 @@ window.FAJTAK_ADATOK = [
       "Foglalkoztatás híján a kerti bokrok gyökereit is kiáshatja.",
       "Csökönyös pillanataiban türelmes, ismétlődő gyakorlásra van szükség.",
       "Négy-hat hetente esedékes nyírása visszatérő anyagi teher."
-    ]
+    ],
+    "kep": "bedlington-terrier.png"
   },
   {
     "nev": "Skye terrier",
@@ -3333,7 +3447,8 @@ window.FAJTAK_ADATOK = [
       "Egyetlen gazdájához olyannyira kötődhet, hogy másokkal nehezen barátkozik.",
       "Egy elszaladó apró állatot ösztönösen üldözőbe vehet.",
       "Napi fésülése hosszú távon komoly időbeli terhet jelent."
-    ]
+    ],
+    "kep": "skye-terrier.png"
   },
   {
     "nev": "Norfolk terrier",
@@ -3362,7 +3477,8 @@ window.FAJTAK_ADATOK = [
       "Izgatottságában sűrű, magas hangú ugatással jelez.",
       "Nem gyakori fajta idehaza, hosszabb várakozás előzheti meg a beszerzését.",
       "Évente többszöri szakszerű trimmelése tetemes összeget tesz ki."
-    ]
+    ],
+    "kep": "norfolk-terrier.png"
   },
   {
     "nev": "Norwich terrier",
@@ -3391,7 +3507,8 @@ window.FAJTAK_ADATOK = [
       "Kertjében szívesen keres elásni valót, ha teheti.",
       "Nem túl elterjedt fajta itthon, keresettebb tenyésztőknél hosszabb várólista lehet.",
       "Öntörvényű jelleme miatt csak határozott vezetés mellett kezelhető."
-    ]
+    ],
+    "kep": "norwich-terrier.png"
   },
   {
     "nev": "Ausztrál silky terrier",
@@ -3420,7 +3537,8 @@ window.FAJTAK_ADATOK = [
       "Ha makacskodik, csak nyugodt, kitartó ráhatással engedelmeskedik.",
       "Ausztrálián kívül nehezebb hozzáférni egy megbízható tenyésztőhöz.",
       "Kéthavonta esedékes szalonlátogatása visszatérő kiadás a családi költségvetésben."
-    ]
+    ],
+    "kep": "ausztral-silky-terrier.png"
   },
   {
     "nev": "Kínai meztelen kutya",
@@ -3449,7 +3567,8 @@ window.FAJTAK_ADATOK = [
       "Sérülékeny bőre miatt semmilyen őrző vagy védelmi szerepre nem való.",
       "Kisgyerekek közelében fokozott felügyeletet igényel a törékeny bőre miatt.",
       "Kínán kívül ritkábban tenyésztett, nehezebb hozzájutni."
-    ]
+    ],
+    "kep": "kinai-meztelen-kutya.png"
   },
   {
     "nev": "Amerikai akita",
@@ -3478,6 +3597,7 @@ window.FAJTAK_ADATOK = [
       "Más háziállatokkal szemben erős zsákmányszerző ösztönt mutathat.",
       "Következetlen nevelés mellett nehezen kezelhetővé válhat.",
       "Nagy testéhez igazodó táplálékmennyisége havi szinten jelentős kiadás."
-    ]
+    ],
+    "kep": "amerikai-akita.png"
   }
 ];
