@@ -7,23 +7,31 @@ npm, nincs keretrendszer. Bármilyen statikus fájlszerverrel kiszolgálható.
 
 ```
 index.html          Főoldal
-fajtak.html          Kutyafajták oldal (adatvezérelt, fetch-eli a JSON-t)
+fajtak.html          Kutyafajták oldal (adatvezérelt, data/fajtak.js-t tölti be)
 css/stilus.css        Egyetlen közös stíluslap mindkét oldalhoz
 js/szkript.js          Közös viselkedés: mobil menü, kapcsolatűrlap → mailto
-js/fajtak.js            Fajtaoldal logikája: betöltés, keresés, méretszűrés
+js/fajtak.js            Fajtaoldal logikája: keresés, méretszűrés (window.FAJTAK_ADATOK-ból)
 data/fajtak.json         Generált fájl — NE szerkeszd kézzel, a scripts/ generálja
+data/fajtak.js           Generált fájl — ugyanaz az adat, mint fajtak.json, de
+                          `window.FAJTAK_ADATOK = [...]` script-tagként betölthető
+                          formában. Azért kell fetch() helyett, mert a fetch()
+                          helyi fájlokon (file://, pl. letöltött ZIP-ből megnyitva)
+                          böngészőben CORS-hiba miatt nem működik — script tag igen.
 assets/kep/               Képek helye (hero-kutyak.jpg ide kerül, ha lesz fotó)
-scripts/fajtak_epit.py      ALAPADATOK (120 fajta neve/mérete/csoportja) + JSON-generátor
+scripts/fajtak_epit.py      ALAPADATOK (120 fajta neve/mérete/csoportja) + generátor
+                             (fajtak.json ÉS fajtak.js)
 scripts/fajtak_adatok.py     SZOVEGEK szótár: minden fajtához 10 erősség + 10 hátrány
 scripts/ellenoriz.py          Ellenőrző szkript: minden fajtánál megvan-e a 10+10
 ```
 
 Fajtaszöveg módosításakor mindig ezt a sorrendet kövesd:
 1. Szerkeszd a `scripts/fajtak_adatok.py`-t (SZOVEGEK szótár).
-2. Futtasd: `python3 scripts/fajtak_epit.py` (újragenerálja a `data/fajtak.json`-t).
+2. Futtasd: `python3 scripts/fajtak_epit.py` (újragenerálja a `data/fajtak.json`-t
+   ÉS a `data/fajtak.js`-t).
 3. Futtasd: `python3 scripts/ellenoriz.py` (ellenőrzi a 10+10 szabályt, nem nulla
    kilépési kóddal jelez, ha valami hiányos).
-4. Soha ne szerkeszd közvetlenül a `data/fajtak.json`-t, mindig felülíródik.
+4. Soha ne szerkeszd közvetlenül a `data/fajtak.json`-t vagy `data/fajtak.js`-t,
+   mindig felülíródik.
 
 ## Márka / vizuális szabályok
 

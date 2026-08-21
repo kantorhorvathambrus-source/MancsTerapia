@@ -75,21 +75,19 @@ document.addEventListener("DOMContentLoaded", function () {
     nincsTalalat.classList.toggle("lathato", lathatokSzama === 0);
   }
 
-  fetch("data/fajtak.json")
-    .then(function (valasz) { return valasz.json(); })
-    .then(function (adatok) {
-      osszesFajta = adatok;
-      var toredek = document.createDocumentFragment();
-      adatok.forEach(function (fajta) {
-        toredek.appendChild(kartyaLetrehozasa(fajta));
-      });
-      racs.appendChild(toredek);
-      listaFrissitese();
-    })
-    .catch(function (hiba) {
-      racs.innerHTML = '<p>A fajták betöltése sikertelen. Próbáld frissíteni az oldalt.</p>';
-      console.error(hiba);
+  try {
+    var adatok = window.FAJTAK_ADATOK || [];
+    osszesFajta = adatok;
+    var toredek = document.createDocumentFragment();
+    adatok.forEach(function (fajta) {
+      toredek.appendChild(kartyaLetrehozasa(fajta));
     });
+    racs.appendChild(toredek);
+    listaFrissitese();
+  } catch (hiba) {
+    racs.innerHTML = '<p>A fajták betöltése sikertelen. Próbáld frissíteni az oldalt.</p>';
+    console.error(hiba);
+  }
 
   if (kereso) {
     kereso.addEventListener("input", function () {

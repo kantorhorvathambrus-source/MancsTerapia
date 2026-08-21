@@ -143,7 +143,8 @@ from fajtak_adatok import SZOVEGEK  # noqa: E402
 
 def epit():
     gyoker = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    kimenet = os.path.join(gyoker, "data", "fajtak.json")
+    json_kimenet = os.path.join(gyoker, "data", "fajtak.json")
+    js_kimenet = os.path.join(gyoker, "data", "fajtak.js")
 
     fajtak = []
     for nev, meret, csoport in ALAPADATOK:
@@ -156,10 +157,19 @@ def epit():
             "hatranyok": szoveg.get("hatranyok", []),
         })
 
-    with open(kimenet, "w", encoding="utf-8") as f:
+    with open(json_kimenet, "w", encoding="utf-8") as f:
         json.dump(fajtak, f, ensure_ascii=False, indent=2)
 
-    print(f"Kiírva: {kimenet} ({len(fajtak)} fajta)")
+    # A fajtak.js ugyanazt az adatot adja, script tagként betölthető formában,
+    # hogy a fajtak.html file:// (letöltött mappából, szerver nélkül) megnyitva
+    # is működjön — fetch() helyi fájlokon böngészőben CORS miatt nem működik.
+    with open(js_kimenet, "w", encoding="utf-8") as f:
+        f.write("// Generált fájl — NE szerkeszd kézzel, a scripts/fajtak_epit.py generálja.\n")
+        f.write("window.FAJTAK_ADATOK = ")
+        json.dump(fajtak, f, ensure_ascii=False, indent=2)
+        f.write(";\n")
+
+    print(f"Kiírva: {json_kimenet} és {js_kimenet} ({len(fajtak)} fajta)")
 
 
 if __name__ == "__main__":
