@@ -26,10 +26,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
     var summary = document.createElement("summary");
     summary.innerHTML =
-      (fajta.kep ?
-        '<div class="fajta-fenykep">' +
-          '<img src="assets/kep/fajtak/' + fajta.kep + '" alt="" loading="lazy" onerror="this.parentElement.remove()">' +
-        '</div>' : '') +
+      '<div class="fajta-fenykep">' +
+        (fajta.kep ?
+          '<img src="assets/kep/fajtak/' + fajta.kep + '" alt="" loading="lazy" onerror="this.remove()">' : '') +
+      '</div>' +
       '<div class="fajta-szoveg">' +
         '<h3 class="fajta-nev">' + fajta.nev + '</h3>' +
         '<div class="fajta-cimkek">' +
