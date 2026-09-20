@@ -9,7 +9,9 @@ npm, nincs keretrendszer. Bármilyen statikus fájlszerverrel kiszolgálható.
 index.html          Főoldal
 fajtak.html          Kutyafajták oldal (adatvezérelt, data/fajtak.js-t tölti be)
 css/stilus.css        Egyetlen közös stíluslap mindkét oldalhoz
-js/szkript.js          Közös viselkedés: mobil menü, kapcsolatűrlap → mailto
+js/szkript.js          Közös viselkedés: mobil menü, kapcsolatűrlap → Netlify Forms (AJAX)
+koszonjuk.html          A kapcsolatűrlap egyedi köszönő oldala (Netlify Forms
+                         `action` célja JS nélküli beküldéshez)
 js/fajtak.js            Fajtaoldal logikája: keresés, méretszűrés (window.FAJTAK_ADATOK-ból)
 data/fajtak.json         Generált fájl — NE szerkeszd kézzel, a scripts/ generálja
 data/fajtak.js           Generált fájl — ugyanaz az adat, mint fajtak.json, de
@@ -131,8 +133,15 @@ Betűtípusok (Google Fontsról, `<link>` tag, nincs helyi másolat):
   `stilus.css`-ben, ne távolítsd el).
 - `prefers-reduced-motion: reduce` esetén az animációk/átmenetek gyakorlatilag
   kikapcsolnak (lásd a `stilus.css` tetején).
-- A kapcsolatűrlapnak nincs backend párja: a "Üzenet küldése" gomb egy
-  `mailto:` linket nyit meg előre kitöltött tárggyal és törzzsel
-  (`js/szkript.js`).
+- A kapcsolatűrlap Netlify Forms-ot használ (nincs saját backend). A
+  `<form>`-on `data-netlify="true"`, `name="kapcsolat"` és egy rejtett
+  `form-name` input van (`index.html`), plusz egy `netlify-honeypot`
+  csapdamező (`.bot-mezo`, CSS-sel elrejtve). JS-sel (`js/szkript.js`)
+  `fetch("/")`-fel AJAX-küldés történik: sikeres küldéskor a form eltűnik és
+  megjelenik a `#urlap-siker` üzenet, hiba esetén a `#urlap-hiba` üzenet (a
+  form megmarad, hogy újra lehessen próbálni). Ha JS nélkül submitol valaki,
+  a form saját `action="koszonjuk.html"`-ja viszi a saját (nem Netlify
+  alapértelmezett) köszönő oldalra. A telefonszám és e-mail cím mindig
+  látható a form mellett és a köszönő oldalon is, tartalék elérhetőségként.
 - A fajták oldal keresése ékezet-független (NFD normalizálás + ékezetek
   eltávolítása, lásd `js/fajtak.js` `ekezetNelkul` függvénye).

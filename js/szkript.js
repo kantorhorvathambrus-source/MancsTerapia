@@ -19,28 +19,37 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   var urlap = document.getElementById("kapcsolat-urlap");
+  var urlapSiker = document.getElementById("urlap-siker");
+  var urlapHiba = document.getElementById("urlap-hiba");
+
   if (urlap) {
     urlap.addEventListener("submit", function (esemeny) {
       esemeny.preventDefault();
 
-      var nev = urlap.nev.value.trim();
-      var intezmeny = urlap.intezmeny.value.trim();
-      var email = urlap.email.value.trim();
-      var temakor = urlap.temakor.value;
-      var uzenet = urlap.uzenet.value.trim();
+      if (urlapHiba) urlapHiba.hidden = true;
 
-      var targy = "Kapcsolatfelvétel – " + temakor;
-      var torzs = "Név: " + nev + "\n" +
-        (intezmeny ? "Intézmény: " + intezmeny + "\n" : "") +
-        "E-mail: " + email + "\n" +
-        "Témakör: " + temakor + "\n\n" +
-        uzenet;
+      var adatok = new URLSearchParams(new FormData(urlap)).toString();
 
-      var mailtoLink = "mailto:terapiasfoglalkozas@gmail.com" +
-        "?subject=" + encodeURIComponent(targy) +
-        "&body=" + encodeURIComponent(torzs);
-
-      window.location.href = mailtoLink;
+      fetch("/", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: adatok,
+      })
+        .then(function (valasz) {
+          if (!valasz.ok) throw new Error("Sikertelen küldés: " + valasz.status);
+          urlap.hidden = true;
+          if (urlapSiker) {
+            urlapSiker.hidden = false;
+            urlapSiker.focus();
+          }
+        })
+        .catch(function (hiba) {
+          console.error(hiba);
+          if (urlapHiba) {
+            urlapHiba.hidden = false;
+            urlapHiba.focus();
+          }
+        });
     });
   }
 });

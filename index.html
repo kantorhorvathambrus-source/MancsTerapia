@@ -152,7 +152,21 @@
             <li>✉️ <a href="mailto:terapiasfoglalkozas@gmail.com">terapiasfoglalkozas@gmail.com</a></li>
           </ul>
         </div>
-        <form class="urlap" id="kapcsolat-urlap">
+        <form
+          class="urlap"
+          id="kapcsolat-urlap"
+          name="kapcsolat"
+          method="POST"
+          action="koszonjuk.html"
+          data-netlify="true"
+          netlify-honeypot="bot-mezo"
+        >
+          <input type="hidden" name="form-name" value="kapcsolat">
+          <p class="bot-mezo" aria-hidden="true">
+            <label>Ne töltsd ki, ha ember vagy:
+              <input type="text" name="bot-mezo" tabindex="-1" autocomplete="off">
+            </label>
+          </p>
           <div class="mezo">
             <label for="nev">Név</label>
             <input type="text" id="nev" name="nev" required>
@@ -180,6 +194,16 @@
           </div>
           <button type="submit" class="gomb gomb--rozsaszin">Üzenet küldése</button>
         </form>
+
+        <div class="urlap-siker" id="urlap-siker" tabindex="-1" hidden>
+          <h3>Köszönjük az üzeneted!</h3>
+          <p>Hamarosan válaszolunk. Ha sürgős, hívj minket: <a href="tel:+36203796098">+36 20 379 6098</a>.</p>
+        </div>
+
+        <div class="urlap-hiba" id="urlap-hiba" tabindex="-1" hidden>
+          <h3>Az üzenet küldése sikertelen</h3>
+          <p>Kérjük, próbáld újra, vagy vedd fel velünk a kapcsolatot közvetlenül: <a href="tel:+36203796098">+36 20 379 6098</a> / <a href="mailto:terapiasfoglalkozas@gmail.com">terapiasfoglalkozas@gmail.com</a>.</p>
+        </div>
       </div>
     </div>
   </section>
