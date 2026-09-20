@@ -4,6 +4,7 @@
   --rozsaszin: #F97BA6;
   --rozsaszin-sotet: #E85D8D;
   --rozsaszin-halvany: #FDEDF2;
+  --rozsaszin-kiemeles: #D92263; /* kiemelt szöveghez fehér háttéren, 4.5:1 kontraszt */
   --sarga: #F5C518;
   --sarga-halvany: #FDF4DC;
   --kek: #7FB9E6;
@@ -92,7 +93,7 @@ img {
 }
 
 .kiemeles {
-  color: var(--rozsaszin-sotet);
+  color: var(--rozsaszin-kiemeles);
 }
 
 .kiemeles-sarga {
